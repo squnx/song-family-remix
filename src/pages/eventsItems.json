@@ -1,0 +1,688 @@
+[
+  {
+    "src": "/assets/images/events/1st-birthday/2000.02-andy-01.jpg",
+    "title": "Welcome to the world!",
+    "description": "February 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
+    "src": "/assets/images/events/1st-birthday/2000.02-andy-02.jpg",
+    "title": "A new chapter begins!",
+    "description": "February 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
+    "src": "/assets/images/events/1st-birthday/2000.02-andy-03.jpg",
+    "title": "So small, so precious!",
+    "description": "February 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
+    "src": "/assets/images/events/1st-birthday/2000.06-andy-01.jpg",
+    "title": "100 days of cuteness!",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
+    "src": "/assets/images/events/1st-birthday/2000.06-andy-02.jpg",
+    "title": "100 days of smile",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
+    "src": "/assets/images/events/1st-birthday/2001.02-andy-01.jpg",
+    "title": "One wonderful year",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
+    "src": "/assets/images/events/1st-birthday/2001.02-andy-02.jpg",
+    "title": "Happy first birthday!",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
+    "src": "/assets/images/events/1st-birthday/2001.02-andy-03.jpg",
+    "title": "A year of love and joy",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
+    "src": "/assets/images/events/1st-birthday/2001.02-andy-04.jpg",
+    "title": "Our family is complete!",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
+    "src": "/assets/images/events/1st-birthday/2001.andy-01.jpg",
+    "title": "Growing up so fast!",
+    "description": "2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
+    "src": "/assets/images/events/1st-birthday/2000.family-01.jpg",
+    "title": "Three generations of love",
+    "description": "February 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
+    "src": "/assets/images/events/andy/2005.06-steppingstone-01.jpg",
+    "title": "Stepping Stones Graduation",
+    "description": "June 2005",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2005.06-steppingstone-02.jpg",
+    "title": "Stepping Stones Graduation",
+    "description": "June 2005",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2005.06-steppingstone-03.jpg",
+    "title": "Stepping Stones Graduation",
+    "description": "June 2005",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2005.06-steppingstone-04.jpg",
+    "title": "Stepping Stones Graduation",
+    "description": "June 2005",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2005.06-steppingstone-05.jpg",
+    "title": "Stepping Stones Graduation",
+    "description": "June 2005",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.03-parents-01.jpg",
+    "title": "In Memory of Grandpa",
+    "description": "March 2003",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.03-parents-02.jpg",
+    "title": "In Memory of Grandpa",
+    "description": "March 2003",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.03-parents-03.jpg",
+    "title": "In Memory of Grandpa",
+    "description": "March 2003",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.03-parents-04.jpg",
+    "title": "In Memory of Grandpa",
+    "description": "March 2003",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/journey/korea/2007.08-grandpa.jpg",
+    "title": "Korea (Hospital)",
+    "description": "August 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-01.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-02.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-03.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-04.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-05.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-06.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-07.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-08.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-09.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-10.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-11.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-12.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-13.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-14.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-15.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-16.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.10-funeral-17.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-01.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-02.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-03.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-04.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-05.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-06.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-01.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-02.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-03.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-04.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-05.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-06.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-07.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-08.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-09.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-10.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-11.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-12.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2012.06-golden-13.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2012.10-memorial-day.jpg",
+    "title": "Grandpa's Memorial Day",
+    "description": "October 2012",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/andy/2015.02-prom-01.jpg",
+    "title": "Prom Party",
+    "description": "February 2015",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.02-prom-01.jpg",
+    "title": "Prom Party",
+    "description": "February 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.06-el-dorado-01.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2017.02-rose-hills.jpg",
+    "title": "Rose Hills",
+    "description": "February 2017",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-01.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-02.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-03.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-04.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-05.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-06.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-07.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-08.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-09.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-10.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-11.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-12.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-13.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-valencia-14.jpg",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2018.06-nachimban-01.jpg",
+    "title": "Nachimban Church",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-01.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-02.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-03.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-04.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-05.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-06.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-07.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-08.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-09.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-10.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-11.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-12.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-13.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-14.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-15.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-16.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-17.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-18.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-19.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-20.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-21.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  }
+]

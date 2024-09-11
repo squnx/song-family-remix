@@ -1,0 +1,2648 @@
+[
+  {
+    "src": "/assets/images/journey/california/1997-hearst-castle.jpg",
+    "title": "Hearst Castle",
+    "description": "1997",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2001-malibu-01.jpg",
+    "title": "Malibu",
+    "description": "2001",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2001-malibu-02.jpg",
+    "title": "Malibu",
+    "description": "2001",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2001-malibu-03.jpg",
+    "title": "Malibu",
+    "description": "2001",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2002-disneyland-01.jpg",
+    "title": "Disneyland",
+    "description": "2002",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2002-disneyland-02.jpg",
+    "title": "Disneyland",
+    "description": "2002",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2003.12-yosemite-01.jpg",
+    "title": "Yosemite",
+    "description": "December 2003",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2003.12-yosemite-02.jpg",
+    "title": "Yosemite",
+    "description": "December 2003",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2003.12-yosemite-03.jpg",
+    "title": "Yosemite",
+    "description": "December 2003",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2004.09-kings-canyon-01.jpg",
+    "title": "Kings Canyon",
+    "description": "September 2004",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2004.09-kings-canyon-02.jpg",
+    "title": "Kings Canyon",
+    "description": "September 2004",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-01.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-02.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-03.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-04.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-05.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-06.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-07.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-08.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-09.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-10.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-11.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.07-leo-carrillo-12.jpg",
+    "title": "Leo Carrillo",
+    "description": "July 2006",
+    "gallery": "journey-leo-carrillo",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-01.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-02.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-03.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-04.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-05.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-06.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-07.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-08.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-09.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-10.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-11.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-12.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-13.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-14.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-15.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-16.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-17.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-18.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-19.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-20.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-21.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-22.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-23.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-24.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-25.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-26.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-27.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-28.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-29.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-30.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-31.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-32.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.08-kings-canyon-33.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2006",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-01.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-02.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-03.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-04.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-05.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-06.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-07.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-08.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-09.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-10.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-11.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-12.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-13.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-14.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-15.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-16.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-17.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-18.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-19.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-20.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-21.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-22.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-23.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-pebble-beach-24.jpg",
+    "title": "Pebble Beach",
+    "description": "September 2006",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-01.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-02.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-03.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-04.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-05.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-06.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-07.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-08.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-09.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-10.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-11.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-12.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-13.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-14.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-15.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-16.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-17.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-18.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-19.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-20.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-21.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-23.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-23.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-24.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-25.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-26.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-27.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-28.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-29.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-30.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-31.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-32.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-33.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-34.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-35.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-36.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-37.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-38.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-39.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-40.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-41.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-42.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-43.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-44.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-45.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-46.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-47.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.09-san-francisco-48.jpg",
+    "title": "San Francisco",
+    "description": "September 2006",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.11-big-bear-01.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.11-big-bear-02.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.11-big-bear-03.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.11-big-bear-04.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.11-big-bear-05.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.11-big-bear-06.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-01.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-02.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-03.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-04.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-05.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-06.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-07.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-08.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-09.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-10.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-11.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-12.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-13.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-14.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-15.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-16.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-17.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-18.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-19.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-20.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-21.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-22.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-23.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-24.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-25.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-26.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2006.12-yosemite-27.jpg",
+    "title": "Yosemite",
+    "description": "December 2006",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-01.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-02.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-03.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-04.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-05.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-06.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-07.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-08.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-09.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-10.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-11.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-12.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-13.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-14.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-15.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-16.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-17.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-18.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-19.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-20.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-21.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-22.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-23.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-24.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-25.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-26.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-27.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-28.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-29.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-30.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-31.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-32.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-33.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-34.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.04-wild-animal-park-35.jpg",
+    "title": "Wild Animal Park",
+    "description": "April 2007",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-01.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-02.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-03.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-04.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-05.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-06.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-07.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-08.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-09.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-10.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-11.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-12.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-13.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-14.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-15.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-16.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.05-yosemite-17.jpg",
+    "title": "Yosemite",
+    "description": "May 2007",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.07-pechanga-01.jpg",
+    "title": "Pechanga",
+    "description": "July 2007",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.07-pechanga-02.jpg",
+    "title": "Pechanga",
+    "description": "July 2007",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.07-pechanga-03.jpg",
+    "title": "Pechanga",
+    "description": "July 2007",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.07-pechanga-04.jpg",
+    "title": "Pechanga",
+    "description": "July 2007",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.07-pechanga-05.jpg",
+    "title": "Pechanga",
+    "description": "July 2007",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.07-pechanga-06.jpg",
+    "title": "Pechanga",
+    "description": "July 2007",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2007.07-pechanga-07.jpg",
+    "title": "Pechanga",
+    "description": "July 2007",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-01.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-02.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-03.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-04.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-05.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-06.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-07.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-08.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-09.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-10.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-11.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-12.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-13.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-14.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-15.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-16.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-17.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-18.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-19.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-20.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-21.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-22.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-23.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-24.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-25.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-26.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2009.08-san-diego.jpg",
+    "title": "San Diego Old Town",
+    "description": "August 2009",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2009.08-sea-world.jpg",
+    "title": "SeaWorld San Diego",
+    "description": "August 2009",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-01.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-02.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-03.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-04.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-05.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-06.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-07.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-08.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-09.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-10.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-11.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-12.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-13.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-14.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-15.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-16.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-17.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-18.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-19.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-20.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-21.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-22.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-23.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-24.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-25.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.06-kings-canyon-26.jpg",
+    "title": "Kings Canyon",
+    "description": "June 2012",
+    "gallery": "journey-kings-canyon",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-01.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-02.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-03.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-04.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-05.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-06.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-07.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-08.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-09.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-10.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-11.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-12.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-13.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-14.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-15.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-16.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-17.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-18.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-19.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-20.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-21.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-22.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-23.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-24.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-25.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-26.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-27.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.07-big-bear-28.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-01.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-02.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-03.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-04.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-05.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-06.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-07.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-08.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-09.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-10.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-11.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.12-yosemite-12.jpg",
+    "title": "Yosemite",
+    "description": "December 2012",
+    "gallery": "journey-yosemite",
+    "filter": "filter-camping"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-01.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-02.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-03.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-04.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-05.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-06.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-07.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-08.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-09.jpg",
+    "title": "Devils Postpile",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-10.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-11.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-12.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-13.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-14.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-15.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-16.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-17.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-18.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-19.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-20.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.11-montage-laguna-beach-01.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "November 2013",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.11-montage-laguna-beach-02.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "November 2013",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.11-montage-laguna-beach-03.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "November 2013",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.11-montage-laguna-beach-04.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "November 2013",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.11-montage-laguna-beach-05.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "November 2013",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.07-san-francisco-01.jpg",
+    "title": "San Francisco",
+    "description": "July 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.07-san-francisco-02.jpg",
+    "title": "San Francisco",
+    "description": "July 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.07-san-francisco-03.jpg",
+    "title": "San Francisco",
+    "description": "July 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-01.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-02.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-03.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-04.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-05.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-06.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-07.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-08.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-09.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-10.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-11.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-12.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2017.12-beachcomber-01.jpg",
+    "title": "Beachcomber Cafe",
+    "description": "December 2017",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2017.12-beachcomber-02.jpg",
+    "title": "Beachcomber Cafe",
+    "description": "December 2017",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2017.1227-montage-laguna-beach-01.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "December 2017",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2017.1227-montage-laguna-beach-02.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "December 2017",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2017.1227-montage-laguna-beach-03.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "December 2017",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2017.1227-montage-laguna-beach-04.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "December 2017",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2017.12-beachcomber-03.jpg",
+    "title": "Beachcomber Cafe",
+    "description": "December 2017",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.01-corona-del-mar-01.jpg",
+    "title": "Corona Del Mar",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.01-corona-del-mar-02.jpg",
+    "title": "Corona Del Mar",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.01-corona-del-mar-03.jpg",
+    "title": "Corona Del Mar",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.01-corona-del-mar-04.jpg",
+    "title": "Corona Del Mar",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.01-corona-del-mar-05.jpg",
+    "title": "Corona Del Mar",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.01-corona-del-mar-06.jpg",
+    "title": "Corona Del Mar",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.01-corona-del-mar-07.jpg",
+    "title": "Corona Del Mar",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2021.10-los-rios-rancho-01.jpg",
+    "title": "Los Rios Rancho",
+    "description": "October 2021",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2021.10-los-rios-rancho-02.jpg",
+    "title": "Los Rios Rancho",
+    "description": "October 2021",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2021.10-los-rios-rancho-03.jpg",
+    "title": "Los Rios Rancho",
+    "description": "October 2021",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2021.10-los-rios-rancho-04.jpg",
+    "title": "Los Rios Rancho",
+    "description": "October 2021",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2021.10-los-rios-rancho-05.jpg",
+    "title": "Los Rios Rancho",
+    "description": "October 2021",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2021.10-los-rios-rancho-06.jpg",
+    "title": "Los Rios Rancho",
+    "description": "October 2021",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2021.10-los-rios-rancho-07.jpg",
+    "title": "Los Rios Rancho",
+    "description": "October 2021",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2021.10-los-rios-rancho-08.jpg",
+    "title": "Los Rios Rancho",
+    "description": "October 2021",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2021.10-los-rios-rancho-09.jpg",
+    "title": "Los Rios Rancho",
+    "description": "October 2021",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2021.10-los-rios-rancho-10.jpg",
+    "title": "Los Rios Rancho",
+    "description": "October 2021",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la"
+  }
+]
