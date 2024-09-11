@@ -35,7 +35,7 @@ const California = () => {
           <div className="isotope-layout" data-default-filter=".filter-pacific-coast" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
               {/* <li data-filter="*" className="filter-active">All</li> */}
-              <li data-filter=".filter-camping" onClick={handleFilterClick}>Camping</li>
+              <li data-filter=".filter-camping-ski" onClick={handleFilterClick}>Camping/Ski</li>
               <li data-filter=".filter-greater-la" onClick={handleFilterClick}>Greater LA</li>
               <li data-filter=".filter-lake-tahoe">Lake Tahoe</li>
               <li data-filter=".filter-mammoth-lakes">Mammoth Lakes</li>
