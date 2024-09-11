@@ -945,6 +945,27 @@
     "filter": "filter-utah"
   },
   {
+    "src": "/assets/images/journey/nevada/2014.06-las-vegas-01.jpg",
+    "title": "Las Vegas",
+    "description": "June 2014",
+    "gallery": "journey-nevada",
+    "filter": "filter-nevada"
+  },
+  {
+    "src": "/assets/images/journey/nevada/2014.06-las-vegas-02.jpg",
+    "title": "Las Vegas",
+    "description": "June 2014",
+    "gallery": "journey-nevada",
+    "filter": "filter-nevada"
+  },
+  {
+    "src": "/assets/images/journey/nevada/2014.06-las-vegas-03.jpg",
+    "title": "Las Vegas",
+    "description": "June 2014",
+    "gallery": "journey-nevada",
+    "filter": "filter-nevada"
+  },
+  {
     "src": "/assets/images/journey/hawaii/2019.08-hawaii-01.jpg",
     "title": "Big Island, Hawaii",
     "description": "August 2019",

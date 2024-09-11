@@ -37,7 +37,7 @@ const Gallery = () => {
               {/* <li data-filter="*" className="filter-active">All</li> */}
               <li data-filter=".filter-family" onClick={handleFilterClick} className="filter-active">Family</li>
               <li data-filter=".filter-friends" onClick={handleFilterClick}>Friends</li>
-              <li data-filter=".filter-houses" onClick={handleFilterClick}>Houses</li>
+              <li data-filter=".filter-home" onClick={handleFilterClick}>Home</li>
               <li data-filter=".filter-milestones" onClick={handleFilterClick}>Milestones</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">

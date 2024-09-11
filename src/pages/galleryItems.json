@@ -406,67 +406,67 @@
     "filter": "filter-family"
   },
   {
-    "src": "/assets/images/gallery/houses/2006.05-artesia-01.jpg",
-    "title": "Artesia House",
+    "src": "/assets/images/gallery/home/2006.05-artesia-01.jpg",
+    "title": "Artesia Home",
     "description": "May 2006",
-    "gallery": "gallery-artesia",
-    "filter": "filter-houses"
+    "gallery": "gallery-home",
+    "filter": "filter-home"
   },
   {
-    "src": "/assets/images/gallery/houses/2006.05-artesia-02.jpg",
-    "title": "Artesia House",
+    "src": "/assets/images/gallery/home/2006.05-artesia-02.jpg",
+    "title": "Artesia Home",
     "description": "May 2006",
-    "gallery": "gallery-artesia",
-    "filter": "filter-houses"
+    "gallery": "gallery-home",
+    "filter": "filter-home"
   },
   {
-    "src": "/assets/images/gallery/houses/2006.05-artesia-03.jpg",
-    "title": "Artesia House",
+    "src": "/assets/images/gallery/home/2006.05-artesia-03.jpg",
+    "title": "Artesia Home",
     "description": "May 2006",
-    "gallery": "gallery-artesia",
-    "filter": "filter-houses"
+    "gallery": "gallery-home",
+    "filter": "filter-home"
   },
   {
-    "src": "/assets/images/gallery/houses/2006.05-artesia-04.jpg",
-    "title": "Artesia House",
+    "src": "/assets/images/gallery/home/2006.05-artesia-04.jpg",
+    "title": "Artesia Home",
     "description": "May 2006",
-    "gallery": "gallery-artesia",
-    "filter": "filter-houses"
+    "gallery": "gallery-home",
+    "filter": "filter-home"
   },
   {
-    "src": "/assets/images/gallery/houses/2006.05-artesia-05.jpg",
-    "title": "Artesia House",
+    "src": "/assets/images/gallery/home/2006.05-artesia-05.jpg",
+    "title": "Artesia Home",
     "description": "May 2006",
-    "gallery": "gallery-artesia",
-    "filter": "filter-houses"
+    "gallery": "gallery-home",
+    "filter": "filter-home"
   },
   {
-    "src": "/assets/images/gallery/houses/2006.05-artesia-06.jpg",
-    "title": "Artesia House",
+    "src": "/assets/images/gallery/home/2006.05-artesia-06.jpg",
+    "title": "Artesia Home",
     "description": "May 2006",
-    "gallery": "gallery-artesia",
-    "filter": "filter-houses"
+    "gallery": "gallery-home",
+    "filter": "filter-home"
   },
   {
-    "src": "/assets/images/gallery/houses/2006.05-artesia-07.jpg",
-    "title": "Artesia House",
+    "src": "/assets/images/gallery/home/2006.05-artesia-07.jpg",
+    "title": "Artesia Home",
     "description": "May 2006",
-    "gallery": "gallery-artesia",
-    "filter": "filter-houses"
+    "gallery": "gallery-home",
+    "filter": "filter-home"
   },
   {
-    "src": "/assets/images/gallery/houses/2006.05-artesia-08.jpg",
-    "title": "Artesia House",
+    "src": "/assets/images/gallery/home/2006.05-artesia-08.jpg",
+    "title": "Artesia Home",
     "description": "May 2006",
-    "gallery": "gallery-artesia",
-    "filter": "filter-houses"
+    "gallery": "gallery-home",
+    "filter": "filter-home"
   },
   {
-    "src": "/assets/images/gallery/houses/2006.05-artesia-09.jpg",
-    "title": "Artesia House",
+    "src": "/assets/images/gallery/home/2006.05-artesia-09.jpg",
+    "title": "Artesia Home",
     "description": "May 2006",
-    "gallery": "gallery-artesia",
-    "filter": "filter-houses"
+    "gallery": "gallery-home",
+    "filter": "filter-home"
   },
   {
     "src": "/assets/images/gallery/friends/2006.05-hollywood-bowl-01.jpg",
@@ -1797,6 +1797,41 @@
     "description": "September 2014",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2014.12-nachimban-01.jpg",
+    "title": "Christmas Eve",
+    "description": "December 2014",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/home/2015.07-placentia-01.jpg",
+    "title": "Placentia Home",
+    "description": "July 2015",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2015.07-placentia-02.jpg",
+    "title": "Placentia Home",
+    "description": "July 2015",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2016.07-placentia-01.jpg",
+    "title": "Placentia Home",
+    "description": "July 2016",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2016.07-placentia-02.jpg",
+    "title": "Placentia Home",
+    "description": "July 2016",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
   },
   {
     "src": "/assets/images/gallery/family/2016.12-family-01.jpg",
