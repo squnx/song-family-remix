@@ -406,6 +406,34 @@
     "filter": "filter-grandpa"
   },
   {
+    "src": "/assets/images/events/andy/2014.06-kraemer-01.jpg",
+    "title": "Kraemer Graduation",
+    "description": "June 2014",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2014.06-kraemer-02.jpg",
+    "title": "Kraemer Graduation",
+    "description": "June 2014",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2014.06-kraemer-03.jpg",
+    "title": "Kraemer Graduation",
+    "description": "June 2014",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2014.06-kraemer-04.jpg",
+    "title": "Kraemer Graduation",
+    "description": "June 2014",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
     "src": "/assets/images/events/andy/2015.02-prom-01.jpg",
     "title": "Prom Party",
     "description": "February 2015",
@@ -413,14 +441,91 @@
     "filter": "filter-andy"
   },
   {
-    "src": "/assets/images/events/phil/2015.02-prom-01.jpg",
-    "title": "Prom Party",
-    "description": "February 2015",
+    "src": "/assets/images/events/phil/2014.07-el-dorado-01.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2014.07-el-dorado-02.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
     "gallery": "events-phil",
     "filter": "filter-phil"
   },
   {
     "src": "/assets/images/events/phil/2015.06-el-dorado-01.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.06-el-dorado-02.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.06-el-dorado-03.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.06-el-dorado-04.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.06-el-dorado-05.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.06-el-dorado-06.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.06-el-dorado-07.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.06-el-dorado-08.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.06-el-dorado-09.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.06-el-dorado-10.jpg",
+    "title": "El Dorado Graduation",
+    "description": "June 2015",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2015.06-el-dorado-11.jpg",
     "title": "El Dorado Graduation",
     "description": "June 2015",
     "gallery": "events-phil",

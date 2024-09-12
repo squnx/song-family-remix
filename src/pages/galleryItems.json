@@ -1806,6 +1806,41 @@
     "filter": "filter-milestones"
   },
   {
+    "src": "/assets/images/gallery/milestones/2015.02-valentine-01.jpg",
+    "title": "Valentine's Day",
+    "description": "February 2015",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2015.02-valentine-02.jpg",
+    "title": "Valentine's Day",
+    "description": "February 2015",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2015.02-valentine-03.jpg",
+    "title": "Valentine's Day",
+    "description": "February 2015",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2015.02-valentine-04.jpg",
+    "title": "Valentine's Day",
+    "description": "February 2015",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2015.02-valentine-05.jpg",
+    "title": "Valentine's Day",
+    "description": "February 2015",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
     "src": "/assets/images/gallery/home/2015.07-placentia-01.jpg",
     "title": "Placentia Home",
     "description": "July 2015",

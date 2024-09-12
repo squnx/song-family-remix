@@ -40,6 +40,7 @@ const Activity = () => {
               <li data-filter=".filter-cake" onClick={handleFilterClick}>Cake</li>
               <li data-filter=".filter-golf" onClick={handleFilterClick} className="filter-active">Golf</li>
               <li data-filter=".filter-instruments" onClick={handleFilterClick}>Instruments</li>
+              <li data-filter=".filter-jokgu" onClick={handleFilterClick}>Jokgu</li>
               <li data-filter=".filter-ski" onClick={handleFilterClick}>Ski</li>
               <li data-filter=".filter-soccer" onClick={handleFilterClick}>Soccer</li>
               <li data-filter=".filter-swimming" onClick={handleFilterClick}>Swimming</li>
