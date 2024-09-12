@@ -39,7 +39,7 @@ const Events = () => {
               {/* <li data-filter=".filter-commencement">Commencement</li> */}
               <li data-filter=".filter-andy" onClick={handleFilterClick}>Andy</li>
               <li data-filter=".filter-phil" onClick={handleFilterClick}>Phil</li>
-              <li data-filter=".filter-grandpa" onClick={handleFilterClick}>Grandpa's Farewell</li>
+              <li data-filter=".filter-grandpa" onClick={handleFilterClick}>Loving Grandpa</li>
               <li data-filter=".filter-wedding" onClick={handleFilterClick}>Wedding</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
