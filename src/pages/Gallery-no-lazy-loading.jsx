@@ -1,3 +1,4 @@
+// This page is prior to adding "React Lazy Load Image Component" on 2024.09.12
 import { useEffect } from 'react';
 import galleryItems from './galleryItems.json';
 

@@ -70,7 +70,6 @@ const Gallery = () => {
         <div className="container">
           <div className="isotope-layout" data-default-filter=".filter-family" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
-              {/* <li data-filter="*" onClick={() => handleFilterClick('*')} className="filter-active">All</li> */}
               <li data-filter=".filter-family" onClick={() => handleFilterClick('.filter-family')} className="filter-active">Family</li>
               <li data-filter=".filter-friends" onClick={() => handleFilterClick('.filter-friends')}>Friends</li>
               <li data-filter=".filter-home" onClick={() => handleFilterClick('.filter-home')}>Home</li>
@@ -82,6 +81,7 @@ const Gallery = () => {
                   <LazyLoadImage
                     src={item.src}
                     alt={item.title}
+                    placeholderSrc={item.placeholderSrc} // Placeholder image for blur effect
                     effect="blur"
                     className="img-fluid"
                     afterLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
