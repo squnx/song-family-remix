@@ -84,7 +84,7 @@ const Gallery = () => {
                     placeholderSrc={item.placeholderSrc} // Placeholder image for blur effect
                     effect="blur"
                     className="img-fluid"
-                    afterLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
+                    onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
                   />
                   <div className="gallery-info">
                     <h4>{item.title}</h4>
