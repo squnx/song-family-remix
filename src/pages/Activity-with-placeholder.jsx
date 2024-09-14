@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';
 import Isotope from 'isotope-layout';
-import eventsItems from './eventsItems.json';
+import activityItems from './activityItems.json';
 
 function useScript(src) {
   useEffect(() => {
@@ -16,7 +16,7 @@ function useScript(src) {
   }, [src]);
 }
 
-const Events = () => {
+const Activity = () => {
   const isotopeRef = useRef(null);
 
   useScript('/assets/js/main-useScript.js');
@@ -32,22 +32,8 @@ const Events = () => {
       },
     });
 
-    // Automatically click the filter button for '.filter-1st-birthday'
-    const clickFilterDefault = () => {
-      const filterDefaultButton = document.querySelector('[data-filter=".filter-1st-birthday"]');
-      if (filterDefaultButton) {
-        filterDefaultButton.click();
-      }
-    };
-
-    // Ensure this runs after Isotope has been initialized
-    const initTimeout = setTimeout(() => {
-      clickFilterDefault();
-    }, 50); // Adjust delay if necessary
-
-    // Cleanup on unmount
+    // Cleanup Isotope on unmount
     return () => {
-      clearTimeout(initTimeout);
       if (isotopeRef.current) {
         isotopeRef.current.destroy();
       }
@@ -76,27 +62,31 @@ const Events = () => {
 
   return (
     <>
-      {/* Events Section */}
+      {/* Activity Section */}
       <section id="gallery" className="gallery section">
         <div className="container section-title" data-aos="fade-up">
-          <h2>Events</h2>
+          <h2>Activity</h2>
         </div>
         <div className="container">
-          <div className="isotope-layout" data-default-filter=".filter-1st-birthday" data-layout="masonry" data-sort="original-order">
+          <div className="isotope-layout" data-default-filter=".filter-golf" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
-              <li data-filter=".filter-1st-birthday" onClick={() => handleFilterClick('.filter-1st-birthday')} className="filter-active">1st Birthday</li>
-              <li data-filter=".filter-andy" onClick={() => handleFilterClick('.filter-andy')}>Andy</li>
-              <li data-filter=".filter-phil" onClick={() => handleFilterClick('.filter-phil')}>Phil</li>
-              <li data-filter=".filter-grandpa" onClick={() => handleFilterClick('.filter-grandpa')}>Loving Grandpa</li>
-              <li data-filter=".filter-wedding" onClick={() => handleFilterClick('.filter-wedding')}>Wedding</li>
+              <li data-filter=".filter-baseball" onClick={() => handleFilterClick('.filter-baseball')}>Baseball</li>
+              <li data-filter=".filter-basketball" onClick={() => handleFilterClick('.filter-basketball')}>Basketball</li>
+              <li data-filter=".filter-cake" onClick={() => handleFilterClick('.filter-cake')}>Cake</li>
+              <li data-filter=".filter-golf" onClick={() => handleFilterClick('.filter-golf')} className="filter-active">Golf</li>
+              <li data-filter=".filter-instruments" onClick={() => handleFilterClick('.filter-instruments')}>Instruments</li>
+              <li data-filter=".filter-jokgu" onClick={() => handleFilterClick('.filter-jokgu')}>Jokgu</li>
+              <li data-filter=".filter-ski" onClick={() => handleFilterClick('.filter-ski')}>Ski</li>
+              <li data-filter=".filter-soccer" onClick={() => handleFilterClick('.filter-soccer')}>Soccer</li>
+              <li data-filter=".filter-swimming" onClick={() => handleFilterClick('.filter-swimming')}>Swimming</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-              {eventsItems.map((item, index) => (
+              {activityItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
                   <LazyLoadImage
                     src={item.src}
                     alt={item.title}
-                    // placeholderSrc={item.placeholderSrc} // Placeholder image for blur effect
+                    placeholderSrc={item.placeholderSrc} // Placeholder image for blur effect
                     effect="blur"
                     className="img-fluid"
                     onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
@@ -116,4 +106,4 @@ const Events = () => {
   );
 };
 
-export default Events;
+export default Activity;

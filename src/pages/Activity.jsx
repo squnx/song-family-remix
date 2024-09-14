@@ -32,14 +32,22 @@ const Activity = () => {
       },
     });
 
-    // Automatically click the ".filter-golf" filter when the component mounts
-    const filterGolfElement = document.querySelector('[data-filter=".filter-golf"]');
-    if (filterGolfElement) {
-      filterGolfElement.click();
-    }
+    // Automatically click the filter button for '.filter-golf'
+    const clickFilterDefault = () => {
+      const filterDefaultButton = document.querySelector('[data-filter=".filter-golf"]');
+      if (filterDefaultButton) {
+        filterDefaultButton.click();
+      }
+    };
 
-    // Cleanup Isotope on unmount
+    // Ensure this runs after Isotope has been initialized
+    const initTimeout = setTimeout(() => {
+      clickFilterDefault();
+    }, 50); // Adjust delay if necessary
+
+    // Cleanup on unmount
     return () => {
+      clearTimeout(initTimeout);
       if (isotopeRef.current) {
         isotopeRef.current.destroy();
       }

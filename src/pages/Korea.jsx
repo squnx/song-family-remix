@@ -32,8 +32,22 @@ const Korea = () => {
       },
     });
 
-    // Cleanup Isotope on unmount
+    // Automatically click the filter button for '.filter-korea'
+    const clickFilterDefault = () => {
+      const filterDefaultButton = document.querySelector('[data-filter=".filter-korea"]');
+      if (filterDefaultButton) {
+        filterDefaultButton.click();
+      }
+    };
+
+    // Ensure this runs after Isotope has been initialized
+    const initTimeout = setTimeout(() => {
+      clickFilterDefault();
+    }, 50); // Adjust delay if necessary
+
+    // Cleanup on unmount
     return () => {
+      clearTimeout(initTimeout);
       if (isotopeRef.current) {
         isotopeRef.current.destroy();
       }
