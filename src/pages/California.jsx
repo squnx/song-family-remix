@@ -33,7 +33,7 @@ const California = () => {
     });
 
     // Automatically click the ".filter-golf" filter when the component mounts
-    const filterGolfElement = document.querySelector('[data-filter=".filter-camping-ski"]');
+    const filterGolfElement = document.querySelector('[data-filter=".filter-greater-la"]');
     if (filterGolfElement) {
       filterGolfElement.click();
     }
@@ -74,10 +74,10 @@ const California = () => {
           <h2>California</h2>
         </div>
         <div className="container">
-          <div className="isotope-layout" data-default-filter=".filter-camping-ski" data-layout="masonry" data-sort="original-order">
+          <div className="isotope-layout" data-default-filter=".filter-greater-la" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
-              <li data-filter=".filter-camping-ski" onClick={() => handleFilterClick('.filter-camping-ski')} className="filter-active">Camping/Ski</li>
-              <li data-filter=".filter-greater-la" onClick={() => handleFilterClick('.filter-greater-la')}>Greater LA</li>
+              <li data-filter=".filter-camping-ski" onClick={() => handleFilterClick('.filter-camping-ski')}>Camping/Ski</li>
+              <li data-filter=".filter-greater-la" onClick={() => handleFilterClick('.filter-greater-la')} className="filter-active">Greater LA</li>
               <li data-filter=".filter-lake-tahoe" onClick={() => handleFilterClick('.filter-lake-tahoe')}>Lake Tahoe</li>
               <li data-filter=".filter-mammoth-lakes" onClick={() => handleFilterClick('.filter-mammoth-lakes')}>Mammoth Lakes</li>
               <li data-filter=".filter-pacific-coast" onClick={() => handleFilterClick('.filter-pacific-coast')}>Pacific Coast</li>
