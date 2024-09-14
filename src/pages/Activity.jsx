@@ -32,6 +32,12 @@ const Activity = () => {
       },
     });
 
+    // Automatically click the ".filter-golf" filter when the component mounts
+    const filterGolfElement = document.querySelector('[data-filter=".filter-golf"]');
+    if (filterGolfElement) {
+      filterGolfElement.click();
+    }
+
     // Cleanup Isotope on unmount
     return () => {
       if (isotopeRef.current) {
@@ -68,12 +74,12 @@ const Activity = () => {
           <h2>Activity</h2>
         </div>
         <div className="container">
-          <div className="isotope-layout" data-default-filter=".filter-baseball" data-layout="masonry" data-sort="original-order">
+          <div className="isotope-layout" data-default-filter=".filter-golf" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
-              <li data-filter=".filter-baseball" onClick={() => handleFilterClick('.filter-baseball')} className="filter-active">Baseball</li>
+              <li data-filter=".filter-baseball" onClick={() => handleFilterClick('.filter-baseball')}>Baseball</li>
               <li data-filter=".filter-basketball" onClick={() => handleFilterClick('.filter-basketball')}>Basketball</li>
               <li data-filter=".filter-cake" onClick={() => handleFilterClick('.filter-cake')}>Cake</li>
-              <li data-filter=".filter-golf" onClick={() => handleFilterClick('.filter-golf')}>Golf</li>
+              <li data-filter=".filter-golf" onClick={() => handleFilterClick('.filter-golf')} className="filter-active">Golf</li>
               <li data-filter=".filter-instruments" onClick={() => handleFilterClick('.filter-instruments')}>Instruments</li>
               <li data-filter=".filter-jokgu" onClick={() => handleFilterClick('.filter-jokgu')}>Jokgu</li>
               <li data-filter=".filter-ski" onClick={() => handleFilterClick('.filter-ski')}>Ski</li>
@@ -86,7 +92,7 @@ const Activity = () => {
                   <LazyLoadImage
                     src={item.src}
                     alt={item.title}
-                    placeholderSrc={item.placeholderSrc} // Placeholder image for blur effect
+                    // placeholderSrc={item.placeholderSrc} // Placeholder image for blur effect
                     effect="blur"
                     className="img-fluid"
                     onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded

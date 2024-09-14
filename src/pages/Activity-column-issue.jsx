@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';
 import Isotope from 'isotope-layout';
-import koreaItems from './koreaItems.json';
+import activityItems from './activityItems.json';
 
 function useScript(src) {
   useEffect(() => {
@@ -16,7 +16,7 @@ function useScript(src) {
   }, [src]);
 }
 
-const Korea = () => {
+const Activity = () => {
   const isotopeRef = useRef(null);
 
   useScript('/assets/js/main-useScript.js');
@@ -62,20 +62,26 @@ const Korea = () => {
 
   return (
     <>
-      {/* Korea Section */}
+      {/* Activity Section */}
       <section id="gallery" className="gallery section">
         <div className="container section-title" data-aos="fade-up">
-          <h2>Korea</h2>
+          <h2>Activity</h2>
         </div>
         <div className="container">
-          <div className="isotope-layout" data-default-filter=".filter-korea-2007" data-layout="masonry" data-sort="original-order">
+          <div className="isotope-layout" data-default-filter=".filter-baseball" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
-              <li data-filter=".filter-korea-2007" onClick={() => handleFilterClick('.filter-korea-2007')} className="filter-active">2007</li>
-              <li data-filter=".filter-korea-2008" onClick={() => handleFilterClick('.filter-korea-2008')}>2008</li>
-              <li data-filter=".filter-korea-2018" onClick={() => handleFilterClick('.filter-korea-2018')}>2018</li>
+              <li data-filter=".filter-baseball" onClick={() => handleFilterClick('.filter-baseball')} className="filter-active">Baseball</li>
+              <li data-filter=".filter-basketball" onClick={() => handleFilterClick('.filter-basketball')}>Basketball</li>
+              <li data-filter=".filter-cake" onClick={() => handleFilterClick('.filter-cake')}>Cake</li>
+              <li data-filter=".filter-golf" onClick={() => handleFilterClick('.filter-golf')}>Golf</li>
+              <li data-filter=".filter-instruments" onClick={() => handleFilterClick('.filter-instruments')}>Instruments</li>
+              <li data-filter=".filter-jokgu" onClick={() => handleFilterClick('.filter-jokgu')}>Jokgu</li>
+              <li data-filter=".filter-ski" onClick={() => handleFilterClick('.filter-ski')}>Ski</li>
+              <li data-filter=".filter-soccer" onClick={() => handleFilterClick('.filter-soccer')}>Soccer</li>
+              <li data-filter=".filter-swimming" onClick={() => handleFilterClick('.filter-swimming')}>Swimming</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-              {koreaItems.map((item, index) => (
+              {activityItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
                   <LazyLoadImage
                     src={item.src}
@@ -100,4 +106,4 @@ const Korea = () => {
   );
 };
 
-export default Korea;
+export default Activity;

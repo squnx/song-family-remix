@@ -1145,7 +1145,7 @@ section,
     height: 100%;
     object-fit: cover;
     display: block;
-    background-color: #e0e0e0;
+    // background-color: #e0e0e0;
     /* Placeholder background color */
     filter: blur(20px);
     /* Apply blur effect */
@@ -1153,14 +1153,19 @@ section,
   }
 
   .lazy-load-image-loaded {
-    filter: blur(0);
-    /* Remove blur once the image is loaded */
+    filter: blur(0); /* Remove blur once the image is loaded */
   }
 
   .gallery-item {
     position: relative;
     overflow: hidden;
+    min-height: 200px; /* Or any reasonable default size */
 
+    .img-fluid {
+      background-color: var(--placeholder-color); /* Light grey background while loading */
+      min-height: 200px; /* Ensure the container has some height */
+    }
+    
     img {
       box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.4);
     }
