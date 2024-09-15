@@ -9,11 +9,6 @@ body {
   background-color: var(--background-color);
   font-family: var(--default-font);
 }
-body.glightbox-open {
-  position: fixed;
-  overflow-y: scroll;
-  width: 100%;
-}
 
 a {
   color: var(--accent-color);
