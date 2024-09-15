@@ -1176,7 +1176,7 @@ section,
     /* Or any reasonable default size */
 
     .img-fluid {
-      background-color: rgba(166, 200, 53, 0.10); /* Placeholder background color */
+      background-color: rgba(166, 200, 53, 0.05); /* Placeholder background color */
       /* Light grey background while loading */
       min-height: 200px;
       /* Ensure the container has some height */
@@ -1233,8 +1233,8 @@ section,
           position: absolute;
           top: 35px;
           left: 35px;
-          border-top: 3px solid var(--hover-effect-1-color);
-          border-left: 3px solid var(--hover-effect-1-color);
+          border-top: 2px solid var(--hover-effect-1-color);
+          border-left: 2px solid var(--hover-effect-1-color);
           transition: all 0.5s ease 0s;
           z-index: 9994;
         }
@@ -1247,8 +1247,8 @@ section,
           position: absolute;
           bottom: 35px;
           right: 35px;
-          border-bottom: 3px solid var(--hover-effect-1-color);
-          border-right: 3px solid var(--hover-effect-1-color);
+          border-bottom: 2px solid var(--hover-effect-1-color);
+          border-right: 2px solid var(--hover-effect-1-color);
           transition: all 0.5s ease 0s;
           z-index: 9994;
         }

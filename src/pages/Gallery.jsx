@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';
 import Isotope from 'isotope-layout';
@@ -18,6 +18,7 @@ function useScript(src) {
 
 const Gallery = () => {
   const isotopeRef = useRef(null);
+  const [scrollPosition, setScrollPosition] = useState(0);
 
   useScript('/assets/js/main-useScript.js');
 
@@ -59,6 +60,42 @@ const Gallery = () => {
       isotopeRef.current.layout();
     }
   };
+
+  const openModal = () => {
+    // Save scroll position before opening modal
+    setScrollPosition(window.scrollY);
+  };
+
+  const closeModal = () => {
+    // Restore scroll position after closing modal
+    window.scrollTo({
+      top: scrollPosition,
+      behavior: 'auto', // Instantly scroll to the saved position
+    });
+  };
+
+  useEffect(() => {
+    // Add event listener for modal open and close
+    const modalLinks = document.querySelectorAll('.gallery-links a');
+    modalLinks.forEach((link) => {
+      link.addEventListener('click', openModal);
+    });
+
+    const modals = document.querySelectorAll('.glightbox');
+    modals.forEach((modal) => {
+      modal.addEventListener('close', closeModal);
+    });
+
+    // Clean up event listeners on unmount
+    return () => {
+      modalLinks.forEach((link) => {
+        link.removeEventListener('click', openModal);
+      });
+      modals.forEach((modal) => {
+        modal.removeEventListener('close', closeModal);
+      });
+    };
+  }, [scrollPosition]);
 
   return (
     <>
