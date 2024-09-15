@@ -53,7 +53,7 @@ const Gallery = () => {
       }, 300); // Adjust delay if needed
     }
   };
-  
+
   const handleImageLoad = () => {
     if (isotopeRef.current) {
       isotopeRef.current.layout();
@@ -65,6 +65,7 @@ const Gallery = () => {
       {/* Gallery Section */}
       <section id="gallery" className="gallery section">
         <div className="container section-title" data-aos="fade-up">
+          <span>Gallery</span>
           <h2>Gallery</h2>
         </div>
         <div className="container">
@@ -78,7 +79,27 @@ const Gallery = () => {
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {galleryItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
-                  <LazyLoadImage
+                  {/* Hover effect #1 */}
+                  <div className="gallery-wrap">
+                    <LazyLoadImage
+                      src={item.src}
+                      alt={item.title}
+                      // placeholderSrc={item.placeholderSrc} // Placeholder image for blur effect
+                      effect="blur"
+                      className="img-fluid"
+                      onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
+                    />
+                    <div className="gallery-info">
+                      <h4>{item.title}</h4>
+                      <p>{item.description}</p>
+                      <div className="gallery-links">
+                        <a href={item.src} data-gallery={item.gallery} className="glightbox" title={item.title}><i className="bi bi-zoom-in"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                  
+                  {/* Hover effect #2 */}
+                  {/* <LazyLoadImage
                     src={item.src}
                     alt={item.title}
                     // placeholderSrc={item.placeholderSrc} // Placeholder image for blur effect
@@ -90,7 +111,8 @@ const Gallery = () => {
                     <h4>{item.title}</h4>
                     <p>{item.description}</p>
                     <a href={item.src} title={item.title} data-gallery={item.gallery} className="glightbox preview-link"><i className="bi bi-zoom-in"></i></a>
-                  </div>
+                  </div> */}
+
                 </div>
               ))}
             </div>

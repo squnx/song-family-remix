@@ -14,7 +14,7 @@
   --background-color: #ffffff; /* Background color for the entire website, including individual sections */
   --default-color: #444444; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #222222; /* Color for headings, subheadings and title throughout the website */
-    --logo-color: #34b7a7;
+  --logo-color: #34b7a7;
   --logo-color: #a6c835;
   --accent-color: #34b7a7; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --accent-color: #a6c835;
@@ -59,7 +59,8 @@
 :root {
   --alt-background-color: #808055;
   --placeholder-color: #34b7a7; /* Used for the placeholder background color */
-  --placeholder-color: #bbbb99; /* Used for the placeholder background color */
+  --placeholder-color: #a6c835; /* Used for the placeholder background color */
+  --hover-effect-1-color: #334400; /* Hover effect #1 */
 }
 
 /* Smooth scroll */
