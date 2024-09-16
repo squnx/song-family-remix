@@ -93,17 +93,8 @@ const Gallery = () => {
                       <h4>{item.title}</h4>
                       <p>{item.description}</p>
                       <div className="gallery-links">
-  <a href={item.src} 
-     data-gallery={item.gallery} 
-     className="glightbox" 
-     title={item.title}
-     onClick={() => {
-       // Assuming Glightbox has an open method (check documentation)
-       Glightbox.open(item.src, { /* any additional options */ });
-     }}
-     ><i className="bi bi-zoom-in"></i>
-  </a>
-</div>
+                        <a href={item.src} data-gallery={item.gallery} className="glightbox" title={item.title}><i className="bi bi-zoom-in"></i></a>
+                      </div>
                     </div>
                   </div>
                   
