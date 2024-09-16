@@ -41,4 +41,12 @@
     selector: '.glightbox'
   });
 
+  /**
+   * Function to detect mobile device (optional)
+   */
+  function isMobileDevice() {
+    const ua = navigator.userAgent;
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(ua);
+  }
+  
 })();

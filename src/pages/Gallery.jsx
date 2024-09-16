@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef } from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';
 import Isotope from 'isotope-layout';
@@ -18,7 +18,6 @@ function useScript(src) {
 
 const Gallery = () => {
   const isotopeRef = useRef(null);
-  const [scrollPosition, setScrollPosition] = useState(0); // State to store scroll position
 
   useScript('/assets/js/main-useScript.js');
 
@@ -61,30 +60,6 @@ const Gallery = () => {
     }
   };
 
-  const handleModalOpen = () => {
-    // Save scroll position before opening the modal
-    setScrollPosition(window.scrollY);
-  };
-
-  const handleModalClose = () => {
-    // Restore scroll position after closing the modal
-    window.scrollTo({
-      top: scrollPosition,
-      behavior: 'auto', // Use 'smooth' if you prefer a smooth scroll
-    });
-  };
-
-  useEffect(() => {
-    // Add event listener to handle modal open/close events
-    document.addEventListener('modalOpen', handleModalOpen);
-    document.addEventListener('modalClose', handleModalClose);
-
-    return () => {
-      document.removeEventListener('modalOpen', handleModalOpen);
-      document.removeEventListener('modalClose', handleModalClose);
-    };
-  }, [scrollPosition]);
-
   return (
     <>
       {/* Gallery Section */}
@@ -118,8 +93,17 @@ const Gallery = () => {
                       <h4>{item.title}</h4>
                       <p>{item.description}</p>
                       <div className="gallery-links">
-                        <a href={item.src} data-gallery={item.gallery} className="glightbox" title={item.title}><i className="bi bi-zoom-in"></i></a>
-                      </div>
+  <a href={item.src} 
+     data-gallery={item.gallery} 
+     className="glightbox" 
+     title={item.title}
+     onClick={() => {
+       // Assuming Glightbox has an open method (check documentation)
+       Glightbox.open(item.src, { /* any additional options */ });
+     }}
+     ><i className="bi bi-zoom-in"></i>
+  </a>
+</div>
                     </div>
                   </div>
                   
