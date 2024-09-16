@@ -44,17 +44,16 @@
   Glightbox.init({
     // ... other options
     beforeOpen: (event) => {
-      if (isMobileDevice()) { // Check for mobile device
-        event.preventDefault(); // Prevent default anchor action
-        // Store current scroll position (optional)
-        const scrollTop = window.scrollY;
+      if (isMobileDevice()) {
+        event.preventDefault();
+        scrollTop = window.scrollY; // Store current scroll position
+      }
+    },
+    close: (event) => {
+      if (isMobileDevice() && scrollTop) {
+        window.scrollTo(0, scrollTop); // Restore scroll position
+        scrollTop = null; // Reset stored scroll position
       }
     }
   });
-  
-  // Function to detect mobile device (optional)
-  function isMobileDevice() {
-    const ua = navigator.userAgent;
-    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(ua);
-  }
 })();
