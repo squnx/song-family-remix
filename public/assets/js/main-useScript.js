@@ -41,20 +41,12 @@
     selector: '.glightbox'
   });
 
-  Glightbox.init({
-    // ... other options
-    beforeOpen: (event) => {
-      if (isMobileDevice()) { // Check for mobile device
-        event.preventDefault(); // Prevent default anchor action
-        // Store current scroll position (optional)
-        const scrollTop = window.scrollY;
-      }
-    }
-  });
-  
-  // Function to detect mobile device (optional)
+  /**
+   * Function to detect mobile device (optional)
+   */
   function isMobileDevice() {
     const ua = navigator.userAgent;
     return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(ua);
   }
+
 })();
