@@ -99,7 +99,6 @@ const Events = () => {
                     <LazyLoadImage
                       src={item.src}
                       alt={item.title}
-                      // placeholderSrc={item.placeholderSrc} // Placeholder image for blur effect
                       effect="blur"
                       className="img-fluid"
                       onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded

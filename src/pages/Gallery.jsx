@@ -32,8 +32,22 @@ const Gallery = () => {
       },
     });
 
-    // Cleanup Isotope on unmount
+    // Automatically click the filter button for '.filter-family'
+    const clickFilterDefault = () => {
+      const filterDefaultButton = document.querySelector('[data-filter=".filter-family"]');
+      if (filterDefaultButton) {
+        filterDefaultButton.click();
+      }
+    };
+
+    // Ensure this runs after Isotope has been initialized
+    const initTimeout = setTimeout(() => {
+      clickFilterDefault();
+    }, 50); // Adjust delay if necessary
+
+    // Cleanup on unmount
     return () => {
+      clearTimeout(initTimeout);
       if (isotopeRef.current) {
         isotopeRef.current.destroy();
       }
@@ -53,7 +67,7 @@ const Gallery = () => {
       }, 300); // Adjust delay if needed
     }
   };
-
+  
   const handleImageLoad = () => {
     if (isotopeRef.current) {
       isotopeRef.current.layout();
@@ -84,7 +98,6 @@ const Gallery = () => {
                     <LazyLoadImage
                       src={item.src}
                       alt={item.title}
-                      // placeholderSrc={item.placeholderSrc} // Placeholder image for blur effect
                       effect="blur"
                       className="img-fluid"
                       onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded

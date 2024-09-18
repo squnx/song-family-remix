@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';
 import Isotope from 'isotope-layout';
-import californiaItems from './californiaItems.json';
+import galleryItems from './galleryItems.json';
 
 function useScript(src) {
   useEffect(() => {
@@ -16,7 +16,7 @@ function useScript(src) {
   }, [src]);
 }
 
-const California = () => {
+const Gallery = () => {
   const isotopeRef = useRef(null);
 
   useScript('/assets/js/main-useScript.js');
@@ -32,22 +32,8 @@ const California = () => {
       },
     });
 
-    // Automatically click the filter button for '.filter-greater-la'
-    const clickFilterDefault = () => {
-      const filterDefaultButton = document.querySelector('[data-filter=".filter-greater-la"]');
-      if (filterDefaultButton) {
-        filterDefaultButton.click();
-      }
-    };
-
-    // Ensure this runs after Isotope has been initialized
-    const initTimeout = setTimeout(() => {
-      clickFilterDefault();
-    }, 50); // Adjust delay if necessary
-
-    // Cleanup on unmount
+    // Cleanup Isotope on unmount
     return () => {
-      clearTimeout(initTimeout);
       if (isotopeRef.current) {
         isotopeRef.current.destroy();
       }
@@ -67,7 +53,7 @@ const California = () => {
       }, 300); // Adjust delay if needed
     }
   };
-  
+
   const handleImageLoad = () => {
     if (isotopeRef.current) {
       isotopeRef.current.layout();
@@ -76,31 +62,29 @@ const California = () => {
 
   return (
     <>
-      {/* California Section */}
+      {/* Gallery Section */}
       <section id="gallery" className="gallery section">
         <div className="container section-title" data-aos="fade-up">
-          <span>California</span>
-          <h2>California</h2>
+          <span>Gallery</span>
+          <h2>Gallery</h2>
         </div>
         <div className="container">
-          <div className="isotope-layout" data-default-filter=".filter-greater-la" data-layout="masonry" data-sort="original-order">
+          <div className="isotope-layout" data-default-filter=".filter-family" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
-              <li data-filter=".filter-camping-ski" onClick={() => handleFilterClick('.filter-camping-ski')}>Camping/Ski</li>
-              <li data-filter=".filter-greater-la" onClick={() => handleFilterClick('.filter-greater-la')} className="filter-active">Greater LA</li>
-              <li data-filter=".filter-lake-tahoe" onClick={() => handleFilterClick('.filter-lake-tahoe')}>Lake Tahoe</li>
-              <li data-filter=".filter-mammoth-lakes" onClick={() => handleFilterClick('.filter-mammoth-lakes')}>Mammoth Lakes</li>
-              <li data-filter=".filter-pacific-coast" onClick={() => handleFilterClick('.filter-pacific-coast')}>Pacific Coast</li>
-              <li data-filter=".filter-san-diego" onClick={() => handleFilterClick('.filter-san-diego')}>San Diego</li>
-              <li data-filter=".filter-san-francisco" onClick={() => handleFilterClick('.filter-san-francisco')}>San Francisco</li>
+              <li data-filter=".filter-family" onClick={() => handleFilterClick('.filter-family')} className="filter-active">Family</li>
+              <li data-filter=".filter-friends" onClick={() => handleFilterClick('.filter-friends')}>Friends</li>
+              <li data-filter=".filter-home" onClick={() => handleFilterClick('.filter-home')}>Home</li>
+              <li data-filter=".filter-milestones" onClick={() => handleFilterClick('.filter-milestones')}>Milestones</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-              {californiaItems.map((item, index) => (
+              {galleryItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
                   {/* Hover effect #1 */}
                   <div className="gallery-wrap">
                     <LazyLoadImage
                       src={item.src}
                       alt={item.title}
+                      // placeholderSrc={item.placeholderSrc} // Placeholder image for blur effect
                       effect="blur"
                       className="img-fluid"
                       onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
@@ -139,4 +123,4 @@ const California = () => {
   );
 };
 
-export default California;
+export default Gallery;
