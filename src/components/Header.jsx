@@ -20,10 +20,10 @@ const Header = () => {
             {/* <li><NavLink to="/journey" activeclassname="active">Journey</NavLink></li> */}
             <li className="dropdown"><a href="#"><span>Journey</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
-              <li><a href="/america">America</a></li>
-                <li><a href="/california">California</a></li>
-                <li><a href="/korea">Korea</a></li>
-                <li><a href="/mexico">Mexico</a></li>
+                <li><NavLink to="/america" activeclassname="active">America</NavLink></li>
+                <li><NavLink to="/california" activeclassname="active">California</NavLink></li>
+                <li><NavLink to="/korea" activeclassname="active">Korea</NavLink></li>
+                <li><NavLink to="/mexico" activeclassname="active">Mexico</NavLink></li>
                 {/* <li className="dropdown"><a href="#"><span>Deep Dropdown</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
                   <ul>
                     <li><a href="#">Deep Dropdown 1</a></li>
