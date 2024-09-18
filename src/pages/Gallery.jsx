@@ -66,7 +66,7 @@ const Gallery = () => {
       <section id="gallery" className="gallery section">
         <div className="container section-title" data-aos="fade-up">
           <span>Gallery</span>
-          <h2>Gallery Gallery</h2>
+          <h2>Gallery</h2>
         </div>
         <div className="container">
           <div className="isotope-layout" data-default-filter=".filter-family" data-layout="masonry" data-sort="original-order">
