@@ -11,28 +11,16 @@ const Header = () => {
         <nav id="navmenu" className="navmenu">
           <ul>
             <li><NavLink to="/" activeclassname="active">Home</NavLink></li>
-            {/* <li><NavLink to="/home2" activeclassname="active">Home 2</NavLink></li> */}
-            {/* <li><NavLink to="/home3" activeclassname="active">Home 3</NavLink></li> */}
             <li><NavLink to="/our-story" activeclassname="active">Our Story</NavLink></li>
             <li><NavLink to="/activity" activeclassname="active">Activity</NavLink></li>
             <li><NavLink to="/events" activeclassname="active">Events</NavLink></li>
             <li><NavLink to="/gallery" activeclassname="active">Gallery</NavLink></li>
-            {/* <li><NavLink to="/journey" activeclassname="active">Journey</NavLink></li> */}
             <li className="dropdown"><a href="#"><span>Journey</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
                 <li><NavLink to="/america" activeclassname="active">America</NavLink></li>
                 <li><NavLink to="/california" activeclassname="active">California</NavLink></li>
                 <li><NavLink to="/korea" activeclassname="active">Korea</NavLink></li>
                 <li><NavLink to="/mexico" activeclassname="active">Mexico</NavLink></li>
-                {/* <li className="dropdown"><a href="#"><span>Deep Dropdown</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
-                  <ul>
-                    <li><a href="#">Deep Dropdown 1</a></li>
-                    <li><a href="#">Deep Dropdown 2</a></li>
-                    <li><a href="#">Deep Dropdown 3</a></li>
-                    <li><a href="#">Deep Dropdown 4</a></li>
-                    <li><a href="#">Deep Dropdown 5</a></li>
-                  </ul>
-                </li> */}
               </ul>
             </li>
             <li><NavLink to="/contact" activeclassname="active">Contact</NavLink></li>
