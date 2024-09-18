@@ -384,6 +384,7 @@ h6 {
         padding: 10px 0;
         margin: 10px 20px;
         background-color: var(--nav-dropdown-background-color);
+        background-color: color-mix(in srgb, var(--accent-color), transparent 90%);
         transition: all 0.5s ease-in-out;
 
         ul {
