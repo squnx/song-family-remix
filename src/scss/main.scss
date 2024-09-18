@@ -305,7 +305,7 @@ h6 {
     }
 
     a {
-      color: var(--accent-color);
+      color: var(--nav-dropdown-color);
       padding: 10px 20px;
       font-family: var(--nav-font);
       font-size: 17px;
@@ -330,7 +330,8 @@ h6 {
       }
         
       .bi-chevron-down::before {
-        font-weight: bold !important;
+        font-size: 16px;
+        font-weight: 800 !important;
       }
 
       i,
@@ -1176,13 +1177,14 @@ section,
       display: inline-block;
       padding: 8px 20px 10px 20px;
       margin: 0;
-      font-size: 15px;
+      font-size: 16px;
       font-weight: 500;
       line-height: 1;
       margin-bottom: 5px;
       border-radius: 50px;
       transition: all 0.3s ease-in-out;
       font-family: var(--heading-font);
+      font-weight: 700;
 
       &:hover,
       &.filter-active {
