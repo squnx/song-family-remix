@@ -9,6 +9,7 @@ const Story = () => {
       {/* Our Story Section */}
       <section id="story" className="story section">
         <div className="container section-title" data-aos="fade-up">
+          <span>Our Story</span>
           <h2>Our Story</h2>
           <p>Our Journey from Then to Now</p>
         </div>
@@ -46,7 +47,7 @@ const Story = () => {
       </section>
 
       <section id="reflections" className="reflections section">
-      <img src="/assets/images/our-story/bg-reflections.jpg" className="reflections-bg" alt="" />
+        <img src="/assets/images/our-story/bg-reflections.jpg" className="reflections-bg" alt="" />
         <div className="container section-title" data-aos="fade-up">
           <h2>Family Reflections</h2>
           <p>Cherishing the moments that define us.</p>
@@ -67,30 +68,30 @@ const Story = () => {
             modules={[Autoplay, Pagination, Navigation]}
             className="mySwiper"
           >
-          <SwiperSlide>
-            <div className="reflection-item">
-              <img src="/assets/images/our-story/ivan_300x300.jpg" className="reflection-img" alt="Saul Goodman" />
-              <h3>Ivan Song</h3>
-              <h4>Software Engineer &amp; Freelancer</h4>
-              <p>
-                <i className="bi bi-quote quote-icon-left"></i>
-                <span>As the father of this wonderful family, I've witnessed firsthand our incredible journey together. From building our lives to raising our children, every moment has been a blessing. I'm grateful for my wife Terri's love and support, and for the amazing people our children have become. I look forward to making more memories together.</span>
-                <i className="bi bi-quote quote-icon-right"></i>
-              </p>
-            </div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <div className="reflection-item">
-              <img src="/assets/images/our-story/terri_140x140.jpg" className="reflection-img" alt="Saul Goodman" />
-              <h3>Terri Song</h3>
-              <h4>RN @ UCI Medical Center</h4>
-              <p>
-                <i className="bi bi-quote quote-icon-left"></i>
-                <span>As the mother of this amazing family, I've watched our children grow into incredible individuals. Our journey together has been filled with love and laughter. I'm grateful for Ivan's support and the bond we share with our children. I'm excited to see what the future holds for our family and the new memories we'll create together.</span>
-                <i className="bi bi-quote quote-icon-right"></i>
-              </p>
-            </div>
-          </SwiperSlide>
+            <SwiperSlide>
+              <div className="reflection-item">
+                <img src="/assets/images/our-story/ivan_300x300.jpg" className="reflection-img" alt="Saul Goodman" />
+                <h3>Ivan Song</h3>
+                <h4>Software Engineer &amp; Freelancer</h4>
+                <p>
+                  <i className="bi bi-quote quote-icon-left"></i>
+                  <span>As the father of this wonderful family, I've witnessed firsthand our incredible journey together. From building our lives to raising our children, every moment has been a blessing. I'm grateful for my wife Terri's love and support, and for the amazing people our children have become. I look forward to making more memories together.</span>
+                  <i className="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div className="reflection-item">
+                <img src="/assets/images/our-story/terri_140x140.jpg" className="reflection-img" alt="Saul Goodman" />
+                <h3>Terri Song</h3>
+                <h4>RN @ UCI Medical Center</h4>
+                <p>
+                  <i className="bi bi-quote quote-icon-left"></i>
+                  <span>As the mother of this amazing family, I've watched our children grow into incredible individuals. Our journey together has been filled with love and laughter. I'm grateful for Ivan's support and the bond we share with our children. I'm excited to see what the future holds for our family and the new memories we'll create together.</span>
+                  <i className="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </SwiperSlide>
             <SwiperSlide>
               <div className="reflection-item">
                 <img src="/assets/images/our-story/phil_400x400.jpg" className="reflection-img" alt="Saul Goodman" />
