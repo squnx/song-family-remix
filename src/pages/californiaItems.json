@@ -2835,6 +2835,20 @@
     "filter": "filter-pacific-coast"
   },
   {
+    "src": "/assets/images/journey/california/2019.03-temecula-wildflower-01.jpg",
+    "title": "Temecula Wildflower",
+    "description": "March 2019",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
+    "src": "/assets/images/journey/california/2019.03-temecula-wildflower-02.jpg",
+    "title": "Temecula Wildflower",
+    "description": "March 2019",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
     "src": "/assets/images/journey/california/2020.01-corona-del-mar-01.jpg",
     "title": "Corona Del Mar",
     "description": "January 2020",
