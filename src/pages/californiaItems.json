@@ -1624,13 +1624,6 @@
     "filter": "filter-greater-la"
   },
   {
-    "src": "/assets/images/journey/california/2007.07-pechanga-07.jpg",
-    "title": "Pechanga",
-    "description": "July 2007",
-    "gallery": "journey-greater-la",
-    "filter": "filter-greater-la"
-  },
-  {
     "src": "/assets/images/activity/ski/2007.12-yosemite-01.jpg",
     "title": "Badger Pass",
     "description": "December 2007",
@@ -2555,11 +2548,53 @@
     "filter": "filter-mammoth-lakes"
   },
   {
+    "src": "/assets/images/activity/ski/2015.01-big-bear-01.jpg",
+    "title": "Snow Summit",
+    "description": "January 2015",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping-ski"
+  },
+  {
+    "src": "/assets/images/activity/ski/2015.01-big-bear-02.jpg",
+    "title": "Snow Summit",
+    "description": "January 2015",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping-ski"
+  },
+  {
+    "src": "/assets/images/activity/ski/2015.01-big-bear-03.jpg",
+    "title": "Snow Summit",
+    "description": "January 2015",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping-ski"
+  },
+  {
+    "src": "/assets/images/activity/ski/2015.01-big-bear-04.jpg",
+    "title": "Snow Summit",
+    "description": "January 2015",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping-ski"
+  },
+  {
+    "src": "/assets/images/activity/ski/2015.01-big-bear-05.jpg",
+    "title": "Snow Summit",
+    "description": "January 2015",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping-ski"
+  },
+  {
     "src": "/assets/images/journey/california/2015.01-mammoth-lakes-01.jpg",
     "title": "Mammoth Lakes",
     "description": "January 2015",
     "gallery": "journey-mammoth-lakes",
     "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/activity/ski/2015.01-june-mountain-ski-01.jpg",
+    "title": "June Mountain Ski",
+    "description": "January 2015",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes filter-camping-ski"
   },
   {
     "src": "/assets/images/activity/ski/2015.01-june-mountain-ski-02.jpg",
@@ -2611,13 +2646,6 @@
     "filter": "filter-mammoth-lakes filter-camping-ski"
   },
   {
-    "src": "/assets/images/activity/ski/2015.01-june-mountain-ski-01.jpg",
-    "title": "June Mountain Ski",
-    "description": "January 2015",
-    "gallery": "journey-mammoth-lakes",
-    "filter": "filter-mammoth-lakes filter-camping-ski"
-  },
-  {
     "src": "/assets/images/journey/california/2013.11-montage-laguna-beach-01.jpg",
     "title": "Montage Laguna Beach",
     "description": "November 2013",
@@ -2651,111 +2679,6 @@
     "description": "November 2013",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-01.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-02.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-03.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-04.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-05.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-06.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-07.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-08.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-09.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-10.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-11.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-12.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-13.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-14.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
-  },
-  {
-    "src": "/assets/images/activity/ski/2015.01-big-bear-15.jpg",
-    "title": "Snow Summit",
-    "description": "January 2015",
-    "gallery": "journey-big-bear",
-    "filter": "filter-camping-ski"
   },
   {
     "src": "/assets/images/journey/california/2015.07-san-francisco-01.jpg",
