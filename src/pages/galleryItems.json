@@ -2408,48 +2408,6 @@
     "filter": "filter-milestones"
   },
   {
-    "src": "/assets/images/gallery/milestones/2017-nachimban-40.jpg",
-    "title": "Nachimban Church",
-    "description": "2017",
-    "gallery": "gallery-milestones",
-    "filter": "filter-milestones"
-  },
-  {
-    "src": "/assets/images/gallery/milestones/2017-nachimban-41.jpg",
-    "title": "Nachimban Church",
-    "description": "2017",
-    "gallery": "gallery-milestones",
-    "filter": "filter-milestones"
-  },
-  {
-    "src": "/assets/images/gallery/milestones/2017-nachimban-42.jpg",
-    "title": "Nachimban Church",
-    "description": "2017",
-    "gallery": "gallery-milestones",
-    "filter": "filter-milestones"
-  },
-  {
-    "src": "/assets/images/gallery/milestones/2017-nachimban-43.jpg",
-    "title": "Nachimban Church",
-    "description": "2017",
-    "gallery": "gallery-milestones",
-    "filter": "filter-milestones"
-  },
-  {
-    "src": "/assets/images/gallery/milestones/2017-nachimban-44.jpg",
-    "title": "Nachimban Church",
-    "description": "2017",
-    "gallery": "gallery-milestones",
-    "filter": "filter-milestones"
-  },
-  {
-    "src": "/assets/images/gallery/milestones/2017-nachimban-45.jpg",
-    "title": "Nachimban Church",
-    "description": "2017",
-    "gallery": "gallery-milestones",
-    "filter": "filter-milestones"
-  },
-  {
     "src": "/assets/images/gallery/family/2017.relatives-01.jpg",
     "title": "Relatives",
     "description": "2017",
@@ -2646,8 +2604,29 @@
     "filter": "filter-family"
   },
   {
-    "src": "/assets/images/gallery/family/2019.02-park-familiy.jpg",
-    "title": "Park's Family",
+    "src": "/assets/images/gallery/family/2019.02-nephew-wedding-01.jpg",
+    "title": "Nephew Wedding",
+    "description": "Febuary 2019",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2019.02-nephew-wedding-02.jpg",
+    "title": "Nephew Wedding",
+    "description": "Febuary 2019",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2019.02-nephew-wedding-03.jpg",
+    "title": "Nephew Wedding",
+    "description": "Febuary 2019",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2019.02-nephew-wedding-04.jpg",
+    "title": "Nephew Wedding",
     "description": "Febuary 2019",
     "gallery": "gallery-family",
     "filter": "filter-family"
@@ -2695,6 +2674,13 @@
     "filter": "filter-family"
   },
   {
+    "src": "/assets/images/gallery/milestones/2019.09-terri.jpg",
+    "title": "Club Rush",
+    "description": "October 2019",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
     "src": "/assets/images/gallery/milestones/2019.10-terri.jpg",
     "title": "Terri Song",
     "description": "October 2019",
@@ -2709,8 +2695,22 @@
     "filter": "filter-milestones"
   },
   {
-    "src": "/assets/images/gallery/family/2020.05-andy.jpg",
-    "title": "COVID 19",
+    "src": "/assets/images/gallery/family/2020.05-corona-01.jpg",
+    "title": "Mother's Day",
+    "description": "May 2020",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2020.05-corona-02.jpg",
+    "title": "Mother's Day",
+    "description": "May 2020",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2020.05-corona-03.jpg",
+    "title": "Mother's Day",
     "description": "May 2020",
     "gallery": "gallery-family",
     "filter": "filter-family"
@@ -2784,5 +2784,19 @@
     "description": "December 2021",
     "gallery": "gallery-friends",
     "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2024.08-terri.01.jpg",
+    "title": "UCI Health",
+    "description": "August 2024",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2024.08-terri.02.jpg",
+    "title": "SSDU Certificate",
+    "description": "August 2024",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
   }
 ]

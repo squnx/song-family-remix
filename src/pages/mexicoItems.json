@@ -210,6 +210,34 @@
     "filter": "filter-cancun"
   },
   {
+    "src": "/assets/images/journey/ensenada/2015.07-ensenada-01.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "July 2015",
+    "gallery": "journey-ensenada",
+    "filter": "filter-ensenada"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2015.07-ensenada-02.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "July 2015",
+    "gallery": "journey-ensenada",
+    "filter": "filter-ensenada"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2015.07-ensenada-03.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "July 2015",
+    "gallery": "journey-ensenada",
+    "filter": "filter-ensenada"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2015.07-ensenada-04.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "July 2015",
+    "gallery": "journey-ensenada",
+    "filter": "filter-ensenada"
+  },
+  {
     "src": "/assets/images/journey/ensenada/2021.12-ensenada-01.jpg",
     "title": "Ensenada, Mexico",
     "description": "December 2021",
