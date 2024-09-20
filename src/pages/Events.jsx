@@ -3,7 +3,7 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';
 import Isotope from 'isotope-layout';
 import eventsItems from './eventsItems.json';
-
+ 
 function useScript(src) {
   useEffect(() => {
     const script = document.createElement('script');
