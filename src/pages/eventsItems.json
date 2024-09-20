@@ -469,6 +469,13 @@
     "filter": "filter-andy"
   },
   {
+    "src": "/assets/images/events/andy/2012.06-golden-14.jpg",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
     "src": "/assets/images/events/grandpa/2012.10-memorial-day.jpg",
     "title": "Grandpa's Memorial Day",
     "description": "October 2012",
@@ -504,11 +511,11 @@
     "filter": "filter-andy"
   },
   {
-    "src": "/assets/images/events/andy/2015.02-prom-01.jpg",
-    "title": "Prom Party",
-    "description": "February 2015",
-    "gallery": "events-andy",
-    "filter": "filter-andy"
+    "src": "/assets/images/events/grandpa/2014.01-rose-hills.jpg",
+    "title": "Rose Hills",
+    "description": "January 2011",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
     "src": "/assets/images/events/phil/2014.07-el-dorado-01.jpg",
@@ -523,6 +530,13 @@
     "description": "June 2015",
     "gallery": "events-phil",
     "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/andy/2015.02-prom-01.jpg",
+    "title": "Prom Party",
+    "description": "February 2015",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
   },
   {
     "src": "/assets/images/events/phil/2015.06-el-dorado-01.jpg",

@@ -1946,6 +1946,20 @@
     "filter": "filter-san-diego"
   },
   {
+    "src": "/assets/images/journey/california/2012.01-corona-del-mar-01.jpg",
+    "title": "Corona Del Mar",
+    "description": "January 2012",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2012.01-corona-del-mar-02.jpg",
+    "title": "Corona Del Mar",
+    "description": "January 2012",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
     "src": "/assets/images/journey/california/2012.06-kings-canyon-01.jpg",
     "title": "Kings Canyon",
     "description": "June 2012",
@@ -2212,6 +2226,13 @@
     "filter": "filter-camping-ski filter-greater-la"
   },
   {
+    "src": "/assets/images/journey/california/2012.07-big-bear-12a.jpg",
+    "title": "Big Bear",
+    "description": "July 2012",
+    "gallery": "journey-big-bear",
+    "filter": "filter-camping-ski filter-greater-la"
+  },
+  {
     "src": "/assets/images/journey/california/2012.07-big-bear-13.jpg",
     "title": "Big Bear",
     "description": "July 2012",
@@ -2471,6 +2492,20 @@
     "filter": "filter-mammoth-lakes"
   },
   {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-09a.jpg",
+    "title": "Devils Postpile",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-09b.jpg",
+    "title": "Devils Postpile",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
     "src": "/assets/images/journey/california/2013.06-mammoth-lakes-10.jpg",
     "title": "Mammoth Lakes",
     "description": "June 2013",
@@ -2546,6 +2581,111 @@
     "description": "June 2013",
     "gallery": "journey-mammoth-lakes",
     "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-21.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-22.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-23.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-24.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-25.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-26.jpg",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.08-san-diego-01.jpg",
+    "title": "San Diego",
+    "description": "August 2013",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.08-san-diego-02.jpg",
+    "title": "San Diego",
+    "description": "August 2013",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.08-san-diego-03.jpg",
+    "title": "San Diego",
+    "description": "August 2013",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.08-san-diego-04.jpg",
+    "title": "San Diego",
+    "description": "August 2013",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.08-san-diego-05.jpg",
+    "title": "San Diego",
+    "description": "August 2013",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.08-san-diego-06.jpg",
+    "title": "San Diego",
+    "description": "August 2013",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.08-san-diego-07.jpg",
+    "title": "San Diego",
+    "description": "August 2013",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.08-san-diego-08.jpg",
+    "title": "San Diego",
+    "description": "August 2013",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.08-san-diego-09.jpg",
+    "title": "San Diego",
+    "description": "August 2013",
+    "gallery": "journey-san-diego",
+    "filter": "filter-san-diego"
   },
   {
     "src": "/assets/images/activity/ski/2015.01-big-bear-01.jpg",
@@ -2784,6 +2924,237 @@
     "description": "August 2015",
     "gallery": "journey-san-francisco",
     "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-13.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-14.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-15.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-16.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-17.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-18.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-19.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-20.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-21.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-22.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-23.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-24.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-25.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-26.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-san-francisco-27.jpg",
+    "title": "San Francisco",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-pebble-beach-01.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-pebble-beach-02.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-pebble-beach-03.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-pebble-beach-04.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-01.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-02.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-03.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-04.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-05.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-06.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-07.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-08.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-09.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-10.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-11.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-12.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-13.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2015.08-monterey-14.jpg",
+    "title": "Pebble Beach",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2017.12-beachcomber-01.jpg",

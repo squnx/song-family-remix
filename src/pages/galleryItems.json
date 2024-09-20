@@ -1667,35 +1667,35 @@
   },
   {
     "src": "/assets/images/gallery/milestones/2009.06-oic-01.jpg",
-    "title": "Ivan @ OIC",
+    "title": "Objective Integrated Communications",
     "description": "June 2009",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
   },
   {
     "src": "/assets/images/gallery/milestones/2009.06-oic-02.jpg",
-    "title": "Ivan @ OIC",
+    "title": "Objective Integrated Communications",
     "description": "June 2009",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
   },
   {
     "src": "/assets/images/gallery/milestones/2009.06-oic-03.jpg",
-    "title": "Ivan @ OIC",
+    "title": "Objective Integrated Communications",
     "description": "June 2009",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
   },
   {
     "src": "/assets/images/gallery/milestones/2009.06-oic-04.jpg",
-    "title": "Ivan @ OIC",
+    "title": "Objective Integrated Communications",
     "description": "June 2009",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
   },
   {
     "src": "/assets/images/gallery/milestones/2009.06-oic-05.jpg",
-    "title": "Ivan @ OIC",
+    "title": "Objective Integrated Communications",
     "description": "June 2009",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
@@ -1708,11 +1708,53 @@
     "filter": "filter-family"
   },
   {
+    "src": "/assets/images/gallery/family/2011.03-andy-02.jpg",
+    "title": "Angie Song",
+    "description": "March 2011",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2011.05-dodger-stadium-01.jpg",
+    "title": "Dodger Stadium",
+    "description": "May 2011",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2011.05-dodger-stadium-02.jpg",
+    "title": "Dodger Stadium",
+    "description": "May 2011",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
     "src": "/assets/images/gallery/family/2011.09-andy.jpg",
     "title": "Andy Song",
     "description": "September 2011",
     "gallery": "gallery-family",
     "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2011.10-halloween-01.jpg",
+    "title": "Halloween Trick or Treat",
+    "description": "October 2011",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2012.07-concert-01.jpg",
+    "title": "K-pop Concert (NOKIA Theater)",
+    "description": "July 2012",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2012.07-concert-02.jpg",
+    "title": "K-pop Concert (NOKIA Theater)",
+    "description": "July 2012",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
   },
   {
     "src": "/assets/images/gallery/family/2012.10-halloween-01.jpg",
@@ -1848,6 +1890,13 @@
     "filter": "filter-family"
   },
   {
+    "src": "/assets/images/gallery/friends/2013.05-everland-01.jpg",
+    "title": "Everland Family",
+    "description": "May 2013",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
     "src": "/assets/images/gallery/milestones/2013.05-nachimban-01.jpg",
     "title": "Nachimban Church",
     "description": "May 2013",
@@ -1888,6 +1937,34 @@
     "description": "August 2013",
     "gallery": "gallery-family",
     "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2013.11-stamps.com-01.jpg",
+    "title": "Stamps.com",
+    "description": "November 2013",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2013.11-stamps.com-02.jpg",
+    "title": "Stamps.com",
+    "description": "November 2013",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2013.12-stamps.com-01.jpg",
+    "title": "Stamps Christmas Party",
+    "description": "December 2013",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2014.05-stamps.com-01.jpg",
+    "title": "Stamps.com",
+    "description": "May 2014",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
   },
   {
     "src": "/assets/images/gallery/milestones/2014.09-nachimban-01.jpg",
@@ -1953,6 +2030,20 @@
     "filter": "filter-home"
   },
   {
+    "src": "/assets/images/gallery/home/2015.07-placentia-03.jpg",
+    "title": "Placentia Home",
+    "description": "July 2015",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2015.07-placentia-04.jpg",
+    "title": "Placentia Home",
+    "description": "July 2015",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
     "src": "/assets/images/gallery/home/2016.07-placentia-01.jpg",
     "title": "Placentia Home",
     "description": "July 2016",
@@ -1965,6 +2056,48 @@
     "description": "July 2016",
     "gallery": "gallery-home",
     "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015.08-Kpop-concert-01.jpg",
+    "title": "K-pop Concert (Staples Center)",
+    "description": "August 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015.08-Kpop-concert-02.jpg",
+    "title": "K-pop Concert (Staples Center)",
+    "description": "August 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015.08-Kpop-concert-03.jpg",
+    "title": "K-pop Concert (Staples Center)",
+    "description": "August 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015.08-Kpop-concert-04.jpg",
+    "title": "K-pop Concert (Staples Center)",
+    "description": "August 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015.08-Kpop-concert-05.jpg",
+    "title": "K-pop Concert (Staples Center)",
+    "description": "August 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015.08-letter-to-phil.jpg",
+    "title": "Letter to Phil",
+    "description": "August 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
   },
   {
     "src": "/assets/images/gallery/family/2016.12-family-01.jpg",
@@ -2017,7 +2150,7 @@
   },
   {
     "src": "/assets/images/gallery/friends/2017-friends-01.jpg",
-    "title": "Kim's Family",
+    "title": "Everland Family",
     "description": "2017",
     "gallery": "gallery-friends",
     "filter": "filter-friends"
@@ -2919,21 +3052,21 @@
     "filter": "filter-milestones"
   },
   {
-    "src": "/assets/images/gallery/family/2020.05-corona-01.jpg",
+    "src": "/assets/images/gallery/family/2020.05-covid-19-01.jpg",
     "title": "Mother's Day",
     "description": "May 2020",
     "gallery": "gallery-family",
     "filter": "filter-family"
   },
   {
-    "src": "/assets/images/gallery/family/2020.05-corona-02.jpg",
+    "src": "/assets/images/gallery/family/2020.05-covid-19-02.jpg",
     "title": "Mother's Day",
     "description": "May 2020",
     "gallery": "gallery-family",
     "filter": "filter-family"
   },
   {
-    "src": "/assets/images/gallery/family/2020.05-corona-03.jpg",
+    "src": "/assets/images/gallery/family/2020.05-covid-19-03.jpg",
     "title": "Mother's Day",
     "description": "May 2020",
     "gallery": "gallery-family",

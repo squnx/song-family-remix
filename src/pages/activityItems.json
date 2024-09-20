@@ -1757,6 +1757,13 @@
     "filter": "filter-soccer"
   },
   {
+    "src": "/assets/images/activity/golf/2013.06-black-gold-01.jpg",
+    "title": "Black Gold Golf Club",
+    "description": "June 2013",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
     "src": "/assets/images/activity/soccer/2014.11-soccer-01.jpg",
     "title": "ALBION",
     "description": "Novermber 2014",
@@ -1891,6 +1898,13 @@
   },
   {
     "src": "/assets/images/activity/soccer/2015.08-soccer-01.jpg",
+    "title": "Soccer",
+    "description": "August 2015",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2015.08-soccer-02.jpg",
     "title": "Soccer",
     "description": "August 2015",
     "gallery": "activity-soccer",
