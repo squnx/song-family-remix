@@ -1863,35 +1863,35 @@
   },
   {
     "src": "/assets/images/activity/jokgu/2015.04-jokgu-01.jpg",
-    "title": "Foot Volleyball",
+    "title": "JokGu Tournament",
     "description": "April 2015",
     "gallery": "activity-jokgu",
     "filter": "filter-jokgu"
   },
   {
     "src": "/assets/images/activity/jokgu/2015.04-jokgu-02.jpg",
-    "title": "Foot Volleyball",
+    "title": "JokGu Tournament",
     "description": "April 2015",
     "gallery": "activity-jokgu",
     "filter": "filter-jokgu"
   },
   {
     "src": "/assets/images/activity/jokgu/2015.04-jokgu-03.jpg",
-    "title": "Foot Volleyball",
+    "title": "JokGu Tournament",
     "description": "April 2015",
     "gallery": "activity-jokgu",
     "filter": "filter-jokgu"
   },
   {
     "src": "/assets/images/activity/jokgu/2015.04-jokgu-04.jpg",
-    "title": "Foot Volleyball",
+    "title": "JokGu Tournament",
     "description": "April 2015",
     "gallery": "activity-jokgu",
     "filter": "filter-jokgu"
   },
   {
     "src": "/assets/images/activity/jokgu/2015.04-jokgu-05.jpg",
-    "title": "Foot Volleyball",
+    "title": "JokGu Tournament",
     "description": "April 2015",
     "gallery": "activity-jokgu",
     "filter": "filter-jokgu"
@@ -1911,6 +1911,27 @@
     "filter": "filter-soccer"
   },
   {
+    "src": "/assets/images/journey/ensenada/2015.09-ensenada-01.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "September 2015",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2015.10-jokgu-01.jpg",
+    "title": "JokGu Tournament",
+    "description": "October 2015",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2015.10-jokgu-02.jpg",
+    "title": "JokGu Tournament",
+    "description": "October 2015",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
     "src": "/assets/images/activity/soccer/2017-soccer-01.jpg",
     "title": "Soccer",
     "description": "Timeless Memory",
@@ -1928,6 +1949,34 @@
     "src": "/assets/images/activity/soccer/2017-soccer-03.jpg",
     "title": "Soccer",
     "description": "Timeless Memory",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2015.11-soccer-01.jpg",
+    "title": "CANYON",
+    "description": "Novermber 2015",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2015.11-soccer-02.jpg",
+    "title": "CANYON",
+    "description": "Novermber 2015",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2015.11-soccer-03.jpg",
+    "title": "CANYON",
+    "description": "Novermber 2015",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2015.11-soccer-04.jpg",
+    "title": "CANYON",
+    "description": "Novermber 2015",
     "gallery": "activity-soccer",
     "filter": "filter-soccer"
   },

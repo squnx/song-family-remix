@@ -2100,6 +2100,55 @@
     "filter": "filter-family"
   },
   {
+    "src": "/assets/images/gallery/milestones/2015.09-phil.jpg",
+    "title": "AP Scholar Award",
+    "description": "September 2015",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/home/2015.09-placentia-01.jpg",
+    "title": "Placentia Home",
+    "description": "September 2015",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2015.09-placentia-02.jpg",
+    "title": "Placentia Home",
+    "description": "September 2015",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015.10-family-01.jpg",
+    "title": "Andy Song",
+    "description": "October 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015.10-family-02.jpg",
+    "title": "Andy Song",
+    "description": "October 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015.10-family-03.jpg",
+    "title": "Andy Song",
+    "description": "October 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015.10-family-04.jpg",
+    "title": "Andy Song",
+    "description": "October 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
     "src": "/assets/images/gallery/family/2016.12-family-01.jpg",
     "title": "Candid Moments",
     "description": "December 2016",

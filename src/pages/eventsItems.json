@@ -532,13 +532,6 @@
     "filter": "filter-phil"
   },
   {
-    "src": "/assets/images/events/andy/2015.02-prom-01.jpg",
-    "title": "Prom Party",
-    "description": "February 2015",
-    "gallery": "events-andy",
-    "filter": "filter-andy"
-  },
-  {
     "src": "/assets/images/events/phil/2015.06-el-dorado-01.jpg",
     "title": "El Dorado Graduation",
     "description": "June 2015",
@@ -614,6 +607,13 @@
     "description": "June 2015",
     "gallery": "events-phil",
     "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2015.09-rose-hills.jpg",
+    "title": "Rose Hills",
+    "description": "September 2015",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
     "src": "/assets/images/events/grandpa/2017.02-rose-hills.jpg",
