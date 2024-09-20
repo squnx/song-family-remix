@@ -1918,6 +1918,13 @@
     "filter": "filter-golf"
   },
   {
+    "src": "/assets/images/activity/jokgu/2015.10-jokgu-01.jpg",
+    "title": "JokGu Tournament",
+    "description": "October 2015",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
     "src": "/assets/images/activity/jokgu/2015.10-jokgu-02.jpg",
     "title": "JokGu Tournament",
     "description": "October 2015",
@@ -1925,9 +1932,9 @@
     "filter": "filter-jokgu"
   },
   {
-    "src": "/assets/images/activity/jokgu/2015.10-jokgu-01.jpg",
-    "title": "JokGu Tournament",
-    "description": "October 2015",
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-01.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
     "gallery": "activity-jokgu",
     "filter": "filter-jokgu"
   },
@@ -1947,13 +1954,6 @@
   },
   {
     "src": "/assets/images/activity/jokgu/2016.04-jokgu-04.jpg",
-    "title": "JokGu Practice",
-    "description": "April 2016",
-    "gallery": "activity-jokgu",
-    "filter": "filter-jokgu"
-  },
-  {
-    "src": "/assets/images/activity/jokgu/2016.04-jokgu-01.jpg",
     "title": "JokGu Practice",
     "description": "April 2016",
     "gallery": "activity-jokgu",
