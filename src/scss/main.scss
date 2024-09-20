@@ -615,10 +615,13 @@ section,
     color: color-mix(in srgb, var(--accent-color), transparent 70%);
     left: 0;
     right: 0;
-    z-index: 1;
+    // z-index: 1;
     font-weight: 700;
     font-size: 48px;
     line-height: 0;
+    &.transparent-20 {
+      color: color-mix(in srgb, var(--accent-color), transparent 40%);
+    }
   }
 
   h2 {

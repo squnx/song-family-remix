@@ -9,7 +9,7 @@ const Story = () => {
       {/* Our Story Section */}
       <section id="story" className="story section">
         <div className="container section-title" data-aos="fade-up">
-          <span>Our Story</span>
+          <span className="transparent-20">Our Story</span>
           <h2>Our Story</h2>
           <p>Our Journey from Then to Now</p>
         </div>
