@@ -1,5 +1,12 @@
 [
   {
+    "src": "/assets/images/events/1st-birthday/1967.12-ivan.jpg",
+    "title": "A new chapter begins!",
+    "description": "December 1967",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
+  },
+  {
     "src": "/assets/images/events/love-story/2015.12-wedding-01.jpg",
     "title": "Forever starts now!",
     "description": "December 1995",
@@ -78,7 +85,7 @@
   },
   {
     "src": "/assets/images/events/1st-birthday/2000.02-andy-02.jpg",
-    "title": "A new chapter begins!",
+    "title": "A tiny miracle!",
     "description": "February 2000",
     "gallery": "events-1st-birthday",
     "filter": "filter-1st-birthday"

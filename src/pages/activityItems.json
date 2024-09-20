@@ -1918,6 +1918,13 @@
     "filter": "filter-golf"
   },
   {
+    "src": "/assets/images/activity/jokgu/2015.10-jokgu-02.jpg",
+    "title": "JokGu Tournament",
+    "description": "October 2015",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
     "src": "/assets/images/activity/jokgu/2015.10-jokgu-01.jpg",
     "title": "JokGu Tournament",
     "description": "October 2015",
@@ -1925,9 +1932,86 @@
     "filter": "filter-jokgu"
   },
   {
-    "src": "/assets/images/activity/jokgu/2015.10-jokgu-02.jpg",
-    "title": "JokGu Tournament",
-    "description": "October 2015",
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-02.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-03.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-04.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-01.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-05.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-06.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-07.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-08.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-09.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-10.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-11.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/2016.04-jokgu-12.jpg",
+    "title": "JokGu Practice",
+    "description": "April 2016",
     "gallery": "activity-jokgu",
     "filter": "filter-jokgu"
   },
@@ -1979,6 +2063,20 @@
     "description": "Novermber 2015",
     "gallery": "activity-soccer",
     "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/golf/2016.05-closest-to-the-pin-01.jpg",
+    "title": "Closest to the Pin",
+    "description": "May 2016",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2016.05-closest-to-the-pin-02.jpg",
+    "title": "Closest to the Pin",
+    "description": "May 2016",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
   },
   {
     "src": "/assets/images/activity/basketball/2017-basketball-01.jpg",
