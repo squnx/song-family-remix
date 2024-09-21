@@ -41,7 +41,7 @@ const Header = () => {
               </ul>
             </li>
 
-            <li><NavLink to="/contact" activeclassname="active">Contact</NavLink></li>
+            <li><NavLink to="/misc" activeclassname="active">Misc</NavLink></li>
           </ul>
 
           <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>

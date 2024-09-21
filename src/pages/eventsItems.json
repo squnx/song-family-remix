@@ -7,72 +7,79 @@
     "filter": "filter-1st-birthday"
   },
   {
-    "src": "/assets/images/events/love-story/2015.12-wedding-01.jpg",
+    "src": "/assets/images/events/love-story/1995.12-wedding-01.jpg",
     "title": "Forever starts now!",
     "description": "December 1995",
     "gallery": "events-love-story",
     "filter": "filter-love-story"
   },
   {
-    "src": "/assets/images/events/love-story/2015.12-wedding-02.jpg",
+    "src": "/assets/images/events/love-story/1995.12-wedding-02.jpg",
     "title": "My forever love!",
     "description": "December 1995",
     "gallery": "events-love-story",
     "filter": "filter-love-story"
   },
   {
-    "src": "/assets/images/events/love-story/2015.12-honeymoon-01.jpg",
+    "src": "/assets/images/events/love-story/1995.12-honeymoon-01.jpg",
     "title": "Honeymoon at Saipan",
     "description": "December 1995",
     "gallery": "events-love-story",
     "filter": "filter-love-story"
   },
   {
-    "src": "/assets/images/events/love-story/2015.12-honeymoon-02.jpg",
+    "src": "/assets/images/events/love-story/1995.12-honeymoon-02.jpg",
     "title": "Honeymoon at Saipan",
     "description": "December 1995",
     "gallery": "events-love-story",
     "filter": "filter-love-story"
   },
   {
-    "src": "/assets/images/events/love-story/2015.12-honeymoon-03.jpg",
+    "src": "/assets/images/events/love-story/1995.12-honeymoon-03.jpg",
     "title": "Honeymoon at Saipan",
     "description": "December 1995",
     "gallery": "events-love-story",
     "filter": "filter-love-story"
   },
   {
-    "src": "/assets/images/events/love-story/2015.12-honeymoon-04.jpg",
+    "src": "/assets/images/events/love-story/1995.12-honeymoon-04.jpg",
     "title": "Honeymoon at Saipan",
     "description": "December 1995",
     "gallery": "events-love-story",
     "filter": "filter-love-story"
   },
   {
-    "src": "/assets/images/events/love-story/2015.12-honeymoon-05.jpg",
+    "src": "/assets/images/events/love-story/1995.12-honeymoon-05.jpg",
     "title": "Honeymoon at Saipan",
     "description": "December 1995",
     "gallery": "events-love-story",
     "filter": "filter-love-story"
   },
   {
-    "src": "/assets/images/events/love-story/2015.12-newly-weds-01.jpg",
+    "src": "/assets/images/events/love-story/1995.12-newly-weds-01.jpg",
     "title": "Just married!",
     "description": "December 1995",
     "gallery": "events-love-story",
     "filter": "filter-love-story"
   },
   {
-    "src": "/assets/images/events/love-story/2015.12-newly-weds-02.jpg",
+    "src": "/assets/images/events/love-story/1995.12-newly-weds-02.jpg",
     "title": "Happily ever after!",
     "description": "December 1995",
     "gallery": "events-love-story",
     "filter": "filter-love-story"
   },
   {
-    "src": "/assets/images/events/love-story/2015.12-newly-weds-03.jpg",
+    "src": "/assets/images/events/love-story/1995.12-newly-weds-03.jpg",
     "title": "Mr. & Mrs.",
     "description": "December 1995",
+    "gallery": "events-love-story",
+    "filter": "filter-love-story"
+  },
+  {
+    "src": "/assets/images/events/love-story/1998-cd-01.jpg",
+    "title": "Iven's Everlasting CD",
+    "description": "1998",
     "gallery": "events-love-story",
     "filter": "filter-love-story"
   },
@@ -876,6 +883,20 @@
   },
   {
     "src": "/assets/images/events/phil/2019.06-ucsb-21.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-22.jpg",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/phil/2019.06-ucsb-23.jpg",
     "title": "UCSB Graduation",
     "description": "June 2019",
     "gallery": "events-phil",

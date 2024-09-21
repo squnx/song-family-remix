@@ -87,7 +87,6 @@ const Activity = () => {
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
               <li data-filter=".filter-baseball" onClick={() => handleFilterClick('.filter-baseball')}>Baseball</li>
               <li data-filter=".filter-basketball" onClick={() => handleFilterClick('.filter-basketball')}>Basketball</li>
-              <li data-filter=".filter-cake" onClick={() => handleFilterClick('.filter-cake')}>Cake</li>
               <li data-filter=".filter-golf" onClick={() => handleFilterClick('.filter-golf')} className="filter-active">Golf</li>
               <li data-filter=".filter-instruments" onClick={() => handleFilterClick('.filter-instruments')}>Instruments</li>
               <li data-filter=".filter-jokgu" onClick={() => handleFilterClick('.filter-jokgu')}>Jokgu</li>

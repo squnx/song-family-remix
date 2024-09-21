@@ -2016,6 +2016,13 @@
     "filter": "filter-milestones"
   },
   {
+    "src": "/assets/images/gallery/home/2015.06-duck-family-01.jpg",
+    "title": "A Duck Family Parade",
+    "description": "June 2015",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
     "src": "/assets/images/gallery/home/2015.07-placentia-01.jpg",
     "title": "Placentia Home",
     "description": "July 2015",
@@ -2052,6 +2059,13 @@
   },
   {
     "src": "/assets/images/gallery/home/2016.07-placentia-02.jpg",
+    "title": "Placentia Home",
+    "description": "July 2016",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2016.07-placentia-03.jpg",
     "title": "Placentia Home",
     "description": "July 2016",
     "gallery": "gallery-home",
@@ -2119,6 +2133,20 @@
     "description": "September 2015",
     "gallery": "gallery-home",
     "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015-family-01.jpg",
+    "title": "Love, laughter, and forever",
+    "description": "2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015-family-02.jpg",
+    "title": "Family is everything",
+    "description": "2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
   },
   {
     "src": "/assets/images/gallery/family/2015.10-family-01.jpg",
@@ -2196,6 +2224,13 @@
     "description": "February 2017",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/family/2017.02-birthday-gift.jpg",
+    "title": "Best birthday gift ever!",
+    "description": "February 2017",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
   },
   {
     "src": "/assets/images/gallery/friends/2017-friends-01.jpg",
@@ -3360,15 +3395,8 @@
     "filter": "filter-family"
   },
   {
-    "src": "/assets/images/gallery/family/2019.03-wildflower-01.jpg",
-    "title": "Wildflower Viewing Area",
-    "description": "March 2019",
-    "gallery": "gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/assets/images/gallery/family/2019.03-wildflower-02.jpg",
-    "title": "Wildflower Viewing Area",
+    "src": "/assets/images/gallery/family/2019.03-china-town-la-01.jpg",
+    "title": "China Town (LA)",
     "description": "March 2019",
     "gallery": "gallery-family",
     "filter": "filter-family"
@@ -3376,14 +3404,14 @@
   {
     "src": "/assets/images/gallery/milestones/2019.03-usc-01.jpg",
     "title": "USC",
-    "description": "April 2019",
+    "description": "March 2019",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
   },
   {
     "src": "/assets/images/gallery/milestones/2019.03-usc-02.jpg",
     "title": "USC",
-    "description": "April 2019",
+    "description": "March 2019",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
   },
@@ -3395,11 +3423,25 @@
     "filter": "filter-milestones"
   },
   {
+    "src": "/assets/images/gallery/milestones/2019.04-boeing-01.jpg",
+    "title": "Boeing",
+    "description": "April 2019",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
     "src": "/assets/images/gallery/family/2019.05-candid-01.jpg",
     "title": "Candid Moments",
     "description": "May 2019",
     "gallery": "gallery-family",
     "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2019.08-boeing-01.jpg",
+    "title": "Boeing",
+    "description": "August 2019",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
   },
   {
     "src": "/assets/images/gallery/milestones/2019.09-terri.jpg",
@@ -3421,6 +3463,41 @@
     "description": "October 2019",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2019.12-boeing-01.jpg",
+    "title": "Boeing",
+    "description": "December 2019",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2019.12-boeing-02.jpg",
+    "title": "Boeing",
+    "description": "December 2019",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2020.01-boeing-01.jpg",
+    "title": "Boeing",
+    "description": "January 2020",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/family/2020.01-fullerton-loop-01.jpg",
+    "title": "Fullerton Loop",
+    "description": "January 2020",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2020.03-andy-01.jpg",
+    "title": "Looking sharp, as always!",
+    "description": "March 2020",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
   },
   {
     "src": "/assets/images/gallery/family/2020.05-covid-19-01.jpg",

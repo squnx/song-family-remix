@@ -3353,6 +3353,13 @@
     "filter": "filter-greater-la"
   },
   {
+    "src": "/assets/images/journey/california/2019.03-temecula-wildflower-03.jpg",
+    "title": "Temecula Wildflower",
+    "description": "March 2019",
+    "gallery": "journey-greater-la",
+    "filter": "filter-greater-la"
+  },
+  {
     "src": "/assets/images/journey/california/2020.01-corona-del-mar-01.jpg",
     "title": "Corona Del Mar",
     "description": "January 2020",
@@ -3397,6 +3404,41 @@
   {
     "src": "/assets/images/journey/california/2020.01-corona-del-mar-07.jpg",
     "title": "Corona Del Mar",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.01-montage-laguna-beach-01.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.01-montage-laguna-beach-02.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.01-montage-laguna-beach-04.jpg",
+    "title": "Montage Laguna Beach",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.06-pacific-coast-01.jpg",
+    "title": "Pacific Coast (OC)",
+    "description": "January 2020",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/2020.06-pacific-coast-02.jpg",
+    "title": "Pacific Coast (OC)",
     "description": "January 2020",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
