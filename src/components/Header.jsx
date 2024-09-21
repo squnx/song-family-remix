@@ -45,9 +45,6 @@ const Header = () => {
           </ul>
 
           <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
-          {/* !!! IMPORTANT !!! */}
-          {/* Fix dropdown not expanding issue on hamburger menu issue by updating the css in glightbox.min.css listed in the below */}
-          {/* html.glightbox-open{overflow:initial;} */}
         </nav>
 
         <div className="header-social-links d-none d-sm-block">
