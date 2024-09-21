@@ -2303,6 +2303,13 @@
     "filter": "filter-friends"
   },
   {
+    "src": "/assets/images/gallery/family/2017.03-andy-01.jpg",
+    "title": "Andy's first perm day",
+    "description": "March 2017",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
     "src": "/assets/images/gallery/family/2017.03-family-01.jpg",
     "title": "Candid Moments",
     "description": "March 2017",
@@ -2315,6 +2322,76 @@
     "description": "March 2017",
     "gallery": "gallery-family",
     "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/home/2017.08-placentia-01.jpg",
+    "title": "Placentia Home",
+    "description": "August 2017",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2017.08-placentia-02.jpg",
+    "title": "Placentia Home",
+    "description": "August 2017",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2017.08-placentia-03.jpg",
+    "title": "Placentia Home",
+    "description": "August 2017",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2017.08-placentia-04.jpg",
+    "title": "Placentia Home",
+    "description": "August 2017",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2017.08-placentia-05.jpg",
+    "title": "Placentia Home",
+    "description": "August 2017",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2017.08-placentia-06.jpg",
+    "title": "Placentia Home",
+    "description": "August 2017",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2017.11-placentia-01.jpg",
+    "title": "Placentia Home",
+    "description": "November 2017",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2017.11-placentia-02.jpg",
+    "title": "Placentia Home",
+    "description": "November 2017",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2017.11-placentia-03.jpg",
+    "title": "Placentia Home",
+    "description": "November 2017",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2017.12-placentia-01.jpg",
+    "title": "Placentia Home",
+    "description": "December 2017",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
   },
   {
     "src": "/assets/images/gallery/milestones/2017-nachimban-01.jpg",
@@ -2681,11 +2758,46 @@
     "filter": "filter-family"
   },
   {
+    "src": "/assets/images/gallery/milestones/2017.12-boeing-01.jpg",
+    "title": "Boeing",
+    "description": "December 2017",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
     "src": "/assets/images/gallery/family/2018.01-family-01.jpg",
     "title": "Grand Mother",
     "description": "January 2018",
     "gallery": "gallery-family",
     "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2018.04-boeing-01.jpg",
+    "title": "Boeing",
+    "description": "April 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2018.04-boeing-02.jpg",
+    "title": "Boeing",
+    "description": "April 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2018.04-boeing-03.jpg",
+    "title": "Boeing",
+    "description": "April 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2018.04-boeing-04.jpg",
+    "title": "Boeing",
+    "description": "April 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
   },
   {
     "src": "/assets/images/gallery/milestones/2018.03-usc-01.jpg",
@@ -2964,6 +3076,153 @@
     "src": "/assets/images/gallery/home/2018.06-placentia-32.jpg",
     "title": "Placentia Home",
     "description": "June 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-01.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-02.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-03.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-04.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-05.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-06.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-07.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-08.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-09.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-10.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-11.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-12.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-13.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-14.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-15.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-16.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-17.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-18.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-19.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-20.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
+    "gallery": "gallery-home",
+    "filter": "filter-home"
+  },
+  {
+    "src": "/assets/images/gallery/home/2018.09-placentia-21.jpg",
+    "title": "Sweet and sour memories!",
+    "description": "September 2018",
     "gallery": "gallery-home",
     "filter": "filter-home"
   },
