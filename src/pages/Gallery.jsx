@@ -67,7 +67,7 @@ const Gallery = () => {
       }, 300); // Adjust delay if needed
     }
   };
-  
+
   const handleImageLoad = () => {
     if (isotopeRef.current) {
       isotopeRef.current.layout();
@@ -110,7 +110,11 @@ const Gallery = () => {
                       </div>
                     </div>
                   </div>
-                  
+
+                  {/* !!! IMPORTANT !!! */}
+                  {/* Fix the scrolling to top of page issue when .gallery-links is clicked by updating the css in glightbox.min.css listed in the below */}
+                  {/* html.glightbox-open{overflow:initial;} */}
+
                   {/* Hover effect #2 */}
                   {/* <LazyLoadImage
                     src={item.src}
