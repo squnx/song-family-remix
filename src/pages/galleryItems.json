@@ -3234,6 +3234,48 @@
     "filter": "filter-family"
   },
   {
+    "src": "/assets/images/gallery/milestones/2018.11-boeing-01.jpg",
+    "title": "Halloween @ Boeing",
+    "description": "October 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2018.11-boeing-02.jpg",
+    "title": "Halloween @ Boeing",
+    "description": "October 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2018.11-boeing-03.jpg",
+    "title": "Halloween @ Boeing",
+    "description": "October 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2018.11-boeing-04.jpg",
+    "title": "Halloween @ Boeing",
+    "description": "October 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2018.11-boeing-05.jpg",
+    "title": "Halloween @ Boeing",
+    "description": "October 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2018.11-boeing-06.jpg",
+    "title": "Boeing",
+    "description": "April 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
     "src": "/assets/images/gallery/family/2018.12-andy.jpg",
     "title": "Andy Song",
     "description": "December 2018",
@@ -3265,6 +3307,27 @@
     "src": "/assets/images/gallery/family/2018-family-03.jpg",
     "title": "Candid Moments",
     "description": "2018",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2018.12-usc-01.jpg",
+    "title": "Welcome to USC",
+    "description": "December 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2018.12-usc-02.jpg",
+    "title": "Welcome to USC",
+    "description": "December 2018",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/family/2018.12-dad-son.jpg",
+    "title": "Soju Night Extravaganza!",
+    "description": "December 2018",
     "gallery": "gallery-family",
     "filter": "filter-family"
   },
