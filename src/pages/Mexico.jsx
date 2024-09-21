@@ -87,7 +87,7 @@ const Mexico = () => {
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
               <li data-filter=".filter-cancun" onClick={() => handleFilterClick('.filter-cancun')} className="filter-active">Cancun</li>
               <li data-filter=".filter-ensenada" onClick={() => handleFilterClick('.filter-ensenada')}>Ensenada</li>
-              <li data-filter=".filter-loscabos" onClick={() => handleFilterClick('.filter-loscabos')}>Los Cabos</li>
+              <li data-filter=".filter-los-cabos" onClick={() => handleFilterClick('.filter-los-cabos')}>Los Cabos</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {mexicoItems.map((item, index) => (
