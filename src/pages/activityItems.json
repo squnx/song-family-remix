@@ -1701,6 +1701,13 @@
     "filter": "filter-jokgu"
   },
   {
+    "src": "/assets/images/activity/golf/2017.04-golf-01.jpg",
+    "title": "Candid Moments",
+    "description": "April 2017",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
     "src": "/assets/images/activity/soccer/2017-soccer-01.jpg",
     "title": "Soccer",
     "description": "Timeless Memory",
@@ -1816,6 +1823,13 @@
     "src": "/assets/images/activity/golf/2017-golf-07.jpg",
     "title": "Candid Moments",
     "description": "Timeless Memory",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2021.06-golf.-01.jpg",
+    "title": "Dos Lagos",
+    "description": "June 2021",
     "gallery": "activity-golf",
     "filter": "filter-golf"
   },
