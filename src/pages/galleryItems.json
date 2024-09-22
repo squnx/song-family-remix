@@ -2359,6 +2359,13 @@
     "filter": "filter-family"
   },
   {
+    "src": "/assets/images/gallery/family/2017.04-family-01.jpg",
+    "title": "Candid Moments",
+    "description": "April 2017",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
     "src": "/assets/images/gallery/home/2017.08-placentia-01.jpg",
     "title": "Placentia Home",
     "description": "August 2017",

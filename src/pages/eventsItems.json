@@ -196,32 +196,46 @@
     "filter": "filter-andy"
   },
   {
+    "src": "/assets/images/events/andy/2005.06-steppingstone-06.jpg",
+    "title": "Stepping Stones Graduation",
+    "description": "June 2005",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
     "src": "/assets/images/gallery/family/2006.03-parents-01.jpg",
     "title": "In Memory of Grandpa",
-    "description": "March 2003",
+    "description": "March 2006",
     "gallery": "events-grandpa",
     "filter": "filter-grandpa"
   },
   {
     "src": "/assets/images/gallery/family/2006.03-parents-02.jpg",
     "title": "In Memory of Grandpa",
-    "description": "March 2003",
+    "description": "March 2006",
     "gallery": "events-grandpa",
     "filter": "filter-grandpa"
   },
   {
     "src": "/assets/images/gallery/family/2006.03-parents-03.jpg",
     "title": "In Memory of Grandpa",
-    "description": "March 2003",
+    "description": "March 2006",
     "gallery": "events-grandpa",
     "filter": "filter-grandpa"
   },
   {
     "src": "/assets/images/gallery/family/2006.03-parents-04.jpg",
     "title": "In Memory of Grandpa",
-    "description": "March 2003",
+    "description": "March 2006",
     "gallery": "events-grandpa",
     "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/andy/2006.05-cpc.kindergarten-01.jpg",
+    "title": "CPC Kindergarten Graduation",
+    "description": "May 2006",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
   },
   {
     "src": "/assets/images/journey/korea/2007.08-grandpa.jpg",
@@ -477,13 +491,6 @@
   },
   {
     "src": "/assets/images/events/andy/2012.06-golden-13.jpg",
-    "title": "Golden Graduation",
-    "description": "June 2012",
-    "gallery": "events-andy",
-    "filter": "filter-andy"
-  },
-  {
-    "src": "/assets/images/events/andy/2012.06-golden-14.jpg",
     "title": "Golden Graduation",
     "description": "June 2012",
     "gallery": "events-andy",
