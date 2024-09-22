@@ -922,5 +922,19 @@
     "description": "May 2022",
     "gallery": "events-andy",
     "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2024.01-bulova.jpg",
+    "title": "His time, my time!",
+    "description": "January 2024",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2024.01-rolex.jpg",
+    "title": "Forever on my wrist!",
+    "description": "January 2024",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   }
 ]
