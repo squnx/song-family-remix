@@ -497,6 +497,13 @@
     "filter": "filter-covid-19"
   },
   {
+    "src": "/assets/images/misc/covid-19/2020.04-covid.04.jpg",
+    "title": "Covid-19",
+    "description": "April 2020",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
     "src": "/assets/images/misc/covid-19/2020.05-covid.01.jpg",
     "title": "Covid-19",
     "description": "May 2020",
@@ -707,7 +714,7 @@
     "filter": "filter-covid-19"
   },
   {
-    "src": "/assets/images/misc/covid-19/2020.11-covid.02.jpg",
+    "src": "/assets/images/misc/covid-19/2020.11-covid.02a.jpg",
     "title": "Covid-19 Fitness Journey",
     "description": "November 2020",
     "gallery": "gallery-covid-19",
@@ -731,6 +738,223 @@
     "src": "/assets/images/misc/covid-19/2020.12-covid.03.jpg",
     "title": "Covid-19 Fitness Journey",
     "description": "December 2020",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.01-covid.01.jpg",
+    "title": "Covid-19 Golf",
+    "description": "January 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.01-covid.02.jpg",
+    "title": "Covid-19",
+    "description": "January 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.01-covid.03.jpg",
+    "title": "Covid-19",
+    "description": "January 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.01-covid.04.jpg",
+    "title": "Covid-19",
+    "description": "January 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.02-covid.01.jpg",
+    "title": "Covid-19 Golf",
+    "description": "February 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.02-covid.02.jpg",
+    "title": "Covid-19 Fitness Journey",
+    "description": "February 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.02-covid.03.jpg",
+    "title": "Covid-19 Golf",
+    "description": "February 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.03-covid.01.jpg",
+    "title": "Covid-19 Golf",
+    "description": "March 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.03-covid.02.jpg",
+    "title": "Covid-19 Golf",
+    "description": "March 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.04-covid.01.jpg",
+    "title": "Covid-19 Golf",
+    "description": "April 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.04-covid.02.jpg",
+    "title": "Covid-19 Golf",
+    "description": "April 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.04-covid.03.jpg",
+    "title": "Vaccination Record Card",
+    "description": "April 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.04-covid.04.jpg",
+    "title": "Covid-19 Golf",
+    "description": "April 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.07-covid.01.jpg",
+    "title": "Covid-19 Golf",
+    "description": "July 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.09-covid.01.jpg",
+    "title": "Covid-19 Fitness Journey",
+    "description": "September 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/ap/2021.09-ap-01.jpg",
+    "title": "Anime Portraits",
+    "description": "September 2021",
+    "gallery": "gallery-ap",
+    "filter": "filter-ap"
+  },
+  {
+    "src": "/assets/images/misc/ap/2021.09-ap-02.jpg",
+    "title": "Anime Portraits",
+    "description": "September 2021",
+    "gallery": "gallery-ap",
+    "filter": "filter-ap"
+  },
+  {
+    "src": "/assets/images/misc/extras/2021.09-meowoof-01.jpg",
+    "title": "MeoWoof Portraits",
+    "description": "September 2021",
+    "gallery": "gallery-extras",
+    "filter": "filter-extras"
+  },
+  {
+    "src": "/assets/images/misc/extras/2021.09-meowoof-02.jpg",
+    "title": "MeoWoof Portraits",
+    "description": "September 2021",
+    "gallery": "gallery-extras",
+    "filter": "filter-extras"
+  },
+  {
+    "src": "/assets/images/misc/extras/2021.09-meowoof-03.jpg",
+    "title": "MeoWoof Portraits",
+    "description": "September 2021",
+    "gallery": "gallery-extras",
+    "filter": "filter-extras"
+  },
+  {
+    "src": "/assets/images/misc/extras/2021.09-meowoof-04.jpg",
+    "title": "MeoWoof Portraits",
+    "description": "September 2021",
+    "gallery": "gallery-extras",
+    "filter": "filter-extras"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.10-covid.01.jpg",
+    "title": "Covid-19 Golf",
+    "description": "October 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/extras/2021.10-meowoof-01.jpg",
+    "title": "MeoWoof Portraits",
+    "description": "October 2021",
+    "gallery": "gallery-extras",
+    "filter": "filter-extras"
+  },
+  {
+    "src": "/assets/images/misc/extras/2021.10-meowoof-02.jpg",
+    "title": "MeoWoof Portraits",
+    "description": "October 2021",
+    "gallery": "gallery-extras",
+    "filter": "filter-extras"
+  },
+  {
+    "src": "/assets/images/misc/extras/2021.10-meowoof-03.jpg",
+    "title": "MeoWoof Portraits",
+    "description": "October 2021",
+    "gallery": "gallery-extras",
+    "filter": "filter-extras"
+  },
+  {
+    "src": "/assets/images/misc/extras/2021.10-meowoof-04.jpg",
+    "title": "MeoWoof Portraits",
+    "description": "October 2021",
+    "gallery": "gallery-extras",
+    "filter": "filter-extras"
+  },
+  {
+    "src": "/assets/images/misc/extras/2021.10-meowoof-05.jpg",
+    "title": "MeoWoof Portraits",
+    "description": "October 2021",
+    "gallery": "gallery-extras",
+    "filter": "filter-extras"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.12-covid-01.jpg",
+    "title": "Covid-19 Golf",
+    "description": "December 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.12-covid-02.jpg",
+    "title": "Covid-19 Golf",
+    "description": "December 2021",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2022.02-covid.01.jpg",
+    "title": "Vaccination Record Card",
+    "description": "February 2022",
+    "gallery": "gallery-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2022.03-covid.01.jpg",
+    "title": "Covid-19",
+    "description": "March 2022",
     "gallery": "gallery-covid-19",
     "filter": "filter-covid-19"
   }

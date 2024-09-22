@@ -901,5 +901,26 @@
     "description": "June 2019",
     "gallery": "events-phil",
     "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/andy/2022.05-usc-01.jpg",
+    "title": "USC Graduation",
+    "description": "May 2022",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2022.05-usc-02.jpg",
+    "title": "USC Graduation",
+    "description": "May 2022",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2022.05-usc-03.jpg",
+    "title": "USC Graduation",
+    "description": "May 2022",
+    "gallery": "events-andy",
+    "filter": "filter-andy"
   }
 ]

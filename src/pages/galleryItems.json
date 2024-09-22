@@ -3591,6 +3591,62 @@
     "filter": "filter-friends"
   },
   {
+    "src": "/assets/images/gallery/friends/2021.12-friends-01.jpg",
+    "title": "Chrismas Dinner",
+    "description": "December 2021",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2022.08-andy-01.jpg",
+    "title": "Andy's First Apartment",
+    "description": "August 2022",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2022.08-andy-02.jpg",
+    "title": "Andy's First Apartment",
+    "description": "August 2022",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2022.09-andy-01.jpg",
+    "title": "A son's love is priceless",
+    "description": "September 2022",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/family/2022.12-birthday.jpg",
+    "title": "Birthday Cake",
+    "description": "Decemter 2022",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2023.04-pitbull-01.jpg",
+    "title": "Double trouble",
+    "description": "April 2023",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2023.12-christmas-01.jpg",
+    "title": "Santa came early!",
+    "description": "December 2023",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2023.12-christmas-02.jpg",
+    "title": "I'm rich! (Thanks, son!)",
+    "description": "December 2023",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
     "src": "/assets/images/gallery/milestones/2024.08-terri.01.jpg",
     "title": "Champion",
     "description": "August 2024",

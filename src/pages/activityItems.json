@@ -1078,6 +1078,13 @@
     "filter": "filter-golf"
   },
   {
+    "src": "/assets/images/activity/golf/2009.12-hole-in-one.jpg",
+    "title": "Hole in one, baby!",
+    "description": "December 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
     "src": "/assets/images/activity/soccer/2012.05-soccer-01.jpg",
     "title": "Soccer",
     "description": "May 2012",
@@ -1659,6 +1666,20 @@
     "filter": "filter-golf"
   },
   {
+    "src": "/assets/images/activity/golf/2021.10-golf-01.jpg",
+    "title": "Eagle Glen",
+    "description": "October 2021",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2021.10-golf-02.jpg",
+    "title": "Eagle Glen",
+    "description": "October 2021",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
     "src": "/assets/images/journey/ensenada/2021.12-ensenada-04.jpg",
     "title": "Bajamar Ocean Front Golf Club",
     "description": "December 2021",
@@ -1676,6 +1697,20 @@
     "src": "/assets/images/journey/ensenada/2021.12-ensenada-15.jpg",
     "title": "Baja Country Club",
     "description": "December 2021",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2022.02-golf-01.jpg",
+    "title": "Hidden Valley",
+    "description": "February 2022",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2022.02-golf-02.jpg",
+    "title": "Hidden Valley",
+    "description": "February 2022",
     "gallery": "activity-golf",
     "filter": "filter-golf"
   }
