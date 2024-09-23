@@ -87,7 +87,7 @@ const Gallery = () => {
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
               <li data-filter=".filter-family" onClick={() => handleFilterClick('.filter-family')} className="filter-active">Family</li>
               <li data-filter=".filter-friends" onClick={() => handleFilterClick('.filter-friends')}>Friends</li>
-              <li data-filter=".filter-home" onClick={() => handleFilterClick('.filter-home')}>Home</li>
+              <li data-filter=".filter-houses" onClick={() => handleFilterClick('.filter-houses')}>Houses</li>
               <li data-filter=".filter-milestones" onClick={() => handleFilterClick('.filter-milestones')}>Milestones</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
