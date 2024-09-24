@@ -107,7 +107,15 @@ const Activity = () => {
                   <div className="gallery-wrap">
                     {item.type === 'video' ? (
                       <div className="video-container">
-                        <a href={item.src} data-gallery={item.gallery} className="glightbox" title={item.title}>
+                        {/* GLightbox video link with autoplay */}
+                        <a
+                          href={item.src}
+                          data-gallery={item.gallery}
+                          className="glightbox"
+                          title={item.title}
+                          data-type="video"
+                          data-autoplay="true"
+                        >
                           <video width="100%" controls>
                             <source src={item.src} type="video/mp4" />
                             Your browser does not support the video tag.
