@@ -1893,6 +1893,22 @@
     "type": "video"
   },
   {
+    "src": "/assets/images/activity/basketball/videos/2017.01-basketball-01.mp4",
+    "title": "Yorba Linda Basketball Team",
+    "description": "January 2017",
+    "gallery": "activity-basketball",
+    "filter": "filter-basketball",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/activity/basketball/videos/2017.01-basketball-02.mp4",
+    "title": "Yorba Linda Basketball Team",
+    "description": "January 2017",
+    "gallery": "activity-basketball",
+    "filter": "filter-basketball",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/activity/golf/2017-golf-01.jpg",
     "title": "Candid Moments",
     "description": "Timeless Memory",
@@ -1970,11 +1986,43 @@
     "filter": "filter-golf"
   },
   {
+    "src": "/assets/images/activity/basketball/videos/2020.03-basketball-01.mp4",
+    "title": "Practice makes perfect!",
+    "description": "March 2020",
+    "gallery": "activity-basketball",
+    "filter": "filter-basketball",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/activity/basketball/videos/2020.05-basketball-01.mp4",
+    "title": "Practice makes perfect!",
+    "description": "May 2020",
+    "gallery": "activity-basketball",
+    "filter": "filter-basketball",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/activity/basketball/videos/2020.06-basketball-01.mp4",
+    "title": "Practice makes perfect!",
+    "description": "June 2020",
+    "gallery": "activity-basketball",
+    "filter": "filter-basketball",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/activity/golf/2021.06-golf.-01.jpg",
     "title": "Dos Lagos",
     "description": "June 2021",
     "gallery": "activity-golf",
     "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/videos/2021.08-redhawk golf-01.mp4",
+    "title": "Redhawk Golf Club",
+    "description": "August 2021",
+    "gallery": "activity-golf",
+    "filter": "filter-golf",
+    "type": "video"
   },
   {
     "src": "/assets/images/activity/golf/2021.10-golf-01.jpg",
