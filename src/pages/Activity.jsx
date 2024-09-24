@@ -113,23 +113,32 @@ const Activity = () => {
                             Your browser does not support the video tag.
                           </video>
                         </a>
+                        <div className="gallery-info">
+                          <h4>{item.title}</h4>
+                          <p>{item.description}</p>
+                          <div className="gallery-links">
+                            <a href={item.src} data-gallery={item.gallery} className="glightbox" title={item.title}><i className="bi bi-play-circle-fill"></i></a>
+                          </div>
+                        </div>
                       </div>
                     ) : (
-                      <LazyLoadImage
-                        src={item.src}
-                        alt={item.title}
-                        effect="blur"
-                        className="img-fluid"
-                        onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
-                      />
-                    )}
-                    <div className="gallery-info">
-                      <h4>{item.title}</h4>
-                      <p>{item.description}</p>
-                      <div className="gallery-links">
-                        <a href={item.src} data-gallery={item.gallery} className="glightbox" title={item.title}><i className="bi bi-zoom-in"></i></a>
+                      <div className="image-container">
+                        <LazyLoadImage
+                          src={item.src}
+                          alt={item.title}
+                          effect="blur"
+                          className="img-fluid"
+                          onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
+                        />
+                        <div className="gallery-info">
+                          <h4>{item.title}</h4>
+                          <p>{item.description}</p>
+                          <div className="gallery-links">
+                            <a href={item.src} data-gallery={item.gallery} className="glightbox" title={item.title}><i className="bi bi-zoom-in"></i></a>
+                          </div>
+                        </div>
                       </div>
-                    </div>
+                    )}
                   </div>
 
                   {/* Hover effect #2 */}
@@ -146,7 +155,7 @@ const Activity = () => {
                     <p>{item.description}</p>
                     <a href={item.src} title={item.title} data-gallery={item.gallery} className="glightbox preview-link"><i className="bi bi-zoom-in"></i></a>
                   </div> */}
-                  
+
                 </div>
               ))}
             </div>
