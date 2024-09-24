@@ -1778,6 +1778,14 @@
     "filter": "filter-basketball"
   },
   {
+    "src": "/assets/images/activity/basketball/videos/2016.12-basketball-01.mp4",
+    "title": "Free throws",
+    "description": "December 2016",
+    "gallery": "activity-basketball",
+    "filter": "filter-basketball",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/activity/golf/2017-golf-01.jpg",
     "title": "Candid Moments",
     "description": "Timeless Memory",

@@ -1155,6 +1155,16 @@ section,
 /*--------------------------------------------------------------
 # Gallery Section
 --------------------------------------------------------------*/
+.glightbox-clean {
+  .gdesc-inner {
+    background-color: var(--accent-color);
+    padding: 10px 20px;
+  }
+  .gslide-title{
+    color: #000;
+    margin-bottom: 0;
+  }
+}
 .gallery {
   .sticky-filters {
     position: -webkit-sticky;

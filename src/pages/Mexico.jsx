@@ -67,12 +67,18 @@ const Mexico = () => {
       }, 300); // Adjust delay if needed
     }
   };
-  
+
   const handleImageLoad = () => {
     if (isotopeRef.current) {
       isotopeRef.current.layout();
     }
   };
+
+  // Helper function to determine if an item is a video based on its file extension
+  // const isVideo = (src) => {
+  //   const videoExtensions = ['.mp4', '.webm', '.ogg'];
+  //   return videoExtensions.some((ext) => src.endsWith(ext));
+  // };
 
   return (
     <>
@@ -94,13 +100,24 @@ const Mexico = () => {
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
                   {/* Hover effect #1 */}
                   <div className="gallery-wrap">
-                    <LazyLoadImage
-                      src={item.src}
-                      alt={item.title}
-                      effect="blur"
-                      className="img-fluid"
-                      onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
-                    />
+                    {item.type === 'video' ? (
+                      <div className="video-container">
+                        <a href={item.src} data-gallery={item.gallery} className="glightbox" title={item.title}>
+                          <video width="100%" controls>
+                            <source src={item.src} type="video/mp4" />
+                            Your browser does not support the video tag.
+                          </video>
+                        </a>
+                      </div>
+                    ) : (
+                      <LazyLoadImage
+                        src={item.src}
+                        alt={item.title}
+                        effect="blur"
+                        className="img-fluid"
+                        onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
+                      />
+                    )}
                     <div className="gallery-info">
                       <h4>{item.title}</h4>
                       <p>{item.description}</p>
@@ -109,7 +126,7 @@ const Mexico = () => {
                       </div>
                     </div>
                   </div>
-                  
+
                   {/* Hover effect #2 */}
                   {/* <LazyLoadImage
                     src={item.src}

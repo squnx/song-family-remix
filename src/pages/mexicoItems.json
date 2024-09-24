@@ -385,6 +385,30 @@
     "filter": "filter-ensenada"
   },
   {
+    "src": "/assets/images/journey/ensenada/videos/2021.12-ensenada-01.mp4",
+    "title": "Kil's house",
+    "description": "December 2021",
+    "gallery": "journey-ensenada",
+    "filter": "filter-ensenada",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/videos/2021.12-ensenada-02.mp4",
+    "title": "Baja Country Club",
+    "description": "December 2021",
+    "gallery": "journey-ensenada",
+    "filter": "filter-ensenada",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/videos/2021.12-ensenada-03.mp4",
+    "title": "Baja Country Club",
+    "description": "December 2021",
+    "gallery": "journey-ensenada",
+    "filter": "filter-ensenada",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/journey/los-cabos/2023.12-los-cabos-01.jpg",
     "title": "Los Cabos, Mexico",
     "description": "December 2023",
