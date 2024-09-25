@@ -92,8 +92,8 @@ const Miscellaneous = () => {
           <div className="isotope-layout" data-default-filter=".filter-cake" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
               <li data-filter=".filter-ap" onClick={() => handleFilterClick('.filter-ap')}>AP</li>
-              <li data-filter=".filter-cake" onClick={() => handleFilterClick('.filter-cake')}>Cake</li>
-              <li data-filter=".filter-covid-19" onClick={() => handleFilterClick('.filter-covid-19')} className="filter-active">Covid-19</li>
+              <li data-filter=".filter-cake" onClick={() => handleFilterClick('.filter-cake')} className="filter-active">Cake</li>
+              <li data-filter=".filter-covid-19" onClick={() => handleFilterClick('.filter-covid-19')}>Covid-19</li>
               <li data-filter=".filter-extras" onClick={() => handleFilterClick('.filter-extras')}>Extras</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
