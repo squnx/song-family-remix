@@ -1683,7 +1683,23 @@
     "filter": "filter-soccer"
   },
   {
-    "src": "/assets/images/journey/ensenada/2015.09-ensenada-01.jpg",
+    "src": "/assets/images/activity/jokgu/videos/2015.09-jokgu-01.mp4",
+    "title": "JokGu Tournament",
+    "description": "September 2015",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/videos/2015.09-jokgu-01.mp4",
+    "title": "JokGu Tournament",
+    "description": "September 2015",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2015.09-ensenada-02.jpg",
     "title": "Ensenada, Mexico",
     "description": "September 2015",
     "gallery": "activity-golf",
