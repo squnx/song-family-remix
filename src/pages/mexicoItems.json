@@ -245,6 +245,22 @@
     "filter": "filter-ensenada"
   },
   {
+    "src": "/assets/images/journey/ensenada/videos/2015.09-jokgu-01.mp4",
+    "title": "Kil's house (Ensenada)",
+    "description": "September 2015",
+    "gallery": "activity-ensenada",
+    "filter": "filter-ensenada",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/videos/2015.09-jokgu-02.mp4",
+    "title": "Kil's house (Ensenada)",
+    "description": "September 2015",
+    "gallery": "activity-ensenada",
+    "filter": "filter-ensenada",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/journey/ensenada/2021.12-ensenada-01.jpg",
     "title": "Ensenada, Mexico",
     "description": "December 2021",
@@ -386,7 +402,7 @@
   },
   {
     "src": "/assets/images/journey/ensenada/videos/2021.12-ensenada-01.mp4",
-    "title": "Kil's house",
+    "title": "Kil's house (Ensenada)",
     "description": "December 2021",
     "gallery": "journey-ensenada",
     "filter": "filter-ensenada",

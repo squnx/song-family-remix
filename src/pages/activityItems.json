@@ -1683,16 +1683,16 @@
     "filter": "filter-soccer"
   },
   {
-    "src": "/assets/images/activity/jokgu/videos/2015.09-jokgu-01.mp4",
-    "title": "JokGu Tournament",
+    "src": "/assets/images/journey/ensenada/videos/2015.09-jokgu-01.mp4",
+    "title": "Kil's house (Ensenada)",
     "description": "September 2015",
     "gallery": "activity-jokgu",
     "filter": "filter-jokgu",
     "type": "video"
   },
   {
-    "src": "/assets/images/activity/jokgu/videos/2015.09-jokgu-01.mp4",
-    "title": "JokGu Tournament",
+    "src": "/assets/images/journey/ensenada/videos/2015.09-jokgu-02.mp4",
+    "title": "Kil's house (Ensenada)",
     "description": "September 2015",
     "gallery": "activity-jokgu",
     "filter": "filter-jokgu",
@@ -1746,6 +1746,22 @@
     "description": "Novermber 2015",
     "gallery": "activity-soccer",
     "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/videos/2016-03-jokgu-01.mp4",
+    "title": "Turn-Over Kick",
+    "description": "March 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/activity/jokgu/videos/2016-03-jokgu-02.mp4",
+    "title": "Topside Kick",
+    "description": "March 2016",
+    "gallery": "activity-jokgu",
+    "filter": "filter-jokgu",
+    "type": "video"
   },
   {
     "src": "/assets/images/activity/jokgu/2016.04-jokgu-01.jpg",
