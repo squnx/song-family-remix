@@ -784,6 +784,14 @@
     "filter": "filter-covid-19"
   },
   {
+    "src": "/assets/images/activity/golf/videos/2021.03-eagle.glen.01.mp4",
+    "title": "Eagle Glen Golf Club",
+    "description": "March 2021",
+    "gallery": "miscellaneous-covid-19",
+    "filter": "filter-covid-19",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/miscellaneous/covid-19/2021.02-covid.03.jpg",
     "title": "Covid-19 Golf Journey",
     "description": "February 2021",
