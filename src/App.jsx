@@ -13,7 +13,7 @@ import America from './pages/America';
 import California from './pages/California';
 import Korea from './pages/Korea';
 import Mexico from './pages/Mexico';
-import Miscellaneous from './pages/Miscellaneous';
+import Misc from './pages/Misc';
 import ScrollToTop from './components/ScrollToTop';
 
 function App() {
@@ -35,7 +35,7 @@ function App() {
             <Route path="/california" element={<California />} />
             <Route path="/korea" element={<Korea />} />
             <Route path="/mexico" element={<Mexico />} />
-            <Route path="/miscellaneous" element={<Miscellaneous />} />
+            <Route path="/misc" element={<Misc />} />
           </Routes>
         </main>
         <Footer />

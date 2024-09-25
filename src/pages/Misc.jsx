@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';
 import Isotope from 'isotope-layout';
-import miscellaneousItems from './miscellaneousItems.json';
+import miscItems from './miscItems.json';
 
 function useScript(src) {
   useEffect(() => {
@@ -16,7 +16,7 @@ function useScript(src) {
   }, [src]);
 }
 
-const Miscellaneous = () => {
+const misc = () => {
   const isotopeRef = useRef(null);
 
   useScript('/assets/js/main-useScript.js');
@@ -82,11 +82,11 @@ const Miscellaneous = () => {
 
   return (
     <>
-      {/* Miscellaneous Section */}
+      {/* misc Section */}
       <section id="gallery" className="gallery section">
         <div className="container section-title" data-aos="fade-up">
-          <span>Miscellaneous</span>
-          <h2>Miscellaneous</h2>
+          <span>misc</span>
+          <h2>misc</h2>
         </div>
         <div className="container">
           <div className="isotope-layout" data-default-filter=".filter-cake" data-layout="masonry" data-sort="original-order">
@@ -97,7 +97,7 @@ const Miscellaneous = () => {
               <li data-filter=".filter-extras" onClick={() => handleFilterClick('.filter-extras')}>Extras</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-              {miscellaneousItems.map((item, index) => (
+              {miscItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
                   {/* Hover effect #1 */}
                   <div className="gallery-wrap">
@@ -170,4 +170,4 @@ const Miscellaneous = () => {
   );
 };
 
-export default Miscellaneous;
+export default misc;
