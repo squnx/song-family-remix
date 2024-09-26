@@ -74,6 +74,12 @@ const Gallery = () => {
     }
   };
 
+  // Helper function to determine if an item is a video based on its file extension
+  // const isVideo = (src) => {
+  //   const videoExtensions = ['.mp4', '.webm', '.ogg'];
+  //   return videoExtensions.some((ext) => src.endsWith(ext));
+  // };
+
   return (
     <>
       {/* Gallery Section */}
@@ -95,25 +101,49 @@ const Gallery = () => {
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
                   {/* Hover effect #1 */}
                   <div className="gallery-wrap">
-                    <LazyLoadImage
-                      src={item.src}
-                      alt={item.title}
-                      effect="blur"
-                      className="img-fluid"
-                      onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
-                    />
-                    <div className="gallery-info">
-                      <h4>{item.title}</h4>
-                      <p>{item.description}</p>
-                      <div className="gallery-links">
-                        <a href={item.src} data-gallery={item.gallery} className="glightbox" title={item.title}><i className="bi bi-zoom-in"></i></a>
+                    {item.type === 'video' ? (
+                      <div className="video-container">
+                        {/* GLightbox video link with autoplay */}
+                        <a
+                          href={item.src}
+                          data-gallery={item.gallery}
+                          className="glightbox"
+                          title={item.title}
+                          data-type="video"
+                          data-autoplay="true"
+                        >
+                          <video width="100%" controls>
+                            <source src={item.src} type="video/mp4" />
+                            Your browser does not support the video tag.
+                          </video>
+                        </a>
+                        <div className="gallery-info">
+                          <h4>{item.title}</h4>
+                          <p>{item.description}</p>
+                          <div className="gallery-links">
+                            <a href={item.src} data-gallery={item.gallery} className="glightbox" title={item.title}><i className="bi bi-play-circle-fill"></i></a>
+                          </div>
+                        </div>
                       </div>
-                    </div>
+                    ) : (
+                      <div className="image-container">
+                        <LazyLoadImage
+                          src={item.src}
+                          alt={item.title}
+                          effect="blur"
+                          className="img-fluid"
+                          onLoad={handleImageLoad}  // Trigger Isotope layout after image is loaded
+                        />
+                        <div className="gallery-info">
+                          <h4>{item.title}</h4>
+                          <p>{item.description}</p>
+                          <div className="gallery-links">
+                            <a href={item.src} data-gallery={item.gallery} className="glightbox" title={item.title}><i className="bi bi-zoom-in"></i></a>
+                          </div>
+                        </div>
+                      </div>
+                    )}
                   </div>
-
-                  {/* !!! IMPORTANT !!! */}
-                  {/* Fix the scrolling to top of page issue when .gallery-links is clicked by updating the css in glightbox.min.css listed in the below */}
-                  {/* html.glightbox-open{overflow:initial;} */}
 
                   {/* Hover effect #2 */}
                   {/* <LazyLoadImage

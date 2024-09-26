@@ -1722,11 +1722,12 @@
     "filter": "filter-family"
   },
   {
-    "src": "/assets/images/gallery/family/2011.05-dodger-stadium-02.jpg",
+    "src": "/assets/images/gallery/family/videos/2011.05-dodger-stadium-01.mp4",
     "title": "Dodger Stadium",
     "description": "May 2011",
     "gallery": "gallery-family",
-    "filter": "filter-family"
+    "filter": "filter-family",
+    "type": "video"
   },
   {
     "src": "/assets/images/gallery/family/2011.09-andy.jpg",
