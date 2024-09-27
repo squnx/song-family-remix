@@ -2087,6 +2087,14 @@
     "filter": "filter-houses"
   },
   {
+    "src": "/assets/images/gallery/houses/videos/2015.06-duck-family-01.mp4",
+    "title": "A Duck Family Parade",
+    "description": "June 2015",
+    "gallery": "gallery-houses",
+    "filter": "filter-houses",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/gallery/houses/2015.07-placentia-01.jpg",
     "title": "Placentia Home",
     "description": "July 2015",
@@ -2111,27 +2119,6 @@
     "src": "/assets/images/gallery/houses/2015.07-placentia-04.jpg",
     "title": "Placentia Home",
     "description": "July 2015",
-    "gallery": "gallery-houses",
-    "filter": "filter-houses"
-  },
-  {
-    "src": "/assets/images/gallery/houses/2016.07-placentia-01.jpg",
-    "title": "Placentia Home",
-    "description": "July 2016",
-    "gallery": "gallery-houses",
-    "filter": "filter-houses"
-  },
-  {
-    "src": "/assets/images/gallery/houses/2016.07-placentia-02.jpg",
-    "title": "Placentia Home",
-    "description": "July 2016",
-    "gallery": "gallery-houses",
-    "filter": "filter-houses"
-  },
-  {
-    "src": "/assets/images/gallery/houses/2016.07-placentia-03.jpg",
-    "title": "Placentia Home",
-    "description": "July 2016",
     "gallery": "gallery-houses",
     "filter": "filter-houses"
   },
@@ -2239,6 +2226,27 @@
     "description": "October 2015",
     "gallery": "gallery-family",
     "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/houses/2016.07-placentia-01.jpg",
+    "title": "Placentia Home",
+    "description": "July 2016",
+    "gallery": "gallery-houses",
+    "filter": "filter-houses"
+  },
+  {
+    "src": "/assets/images/gallery/houses/2016.07-placentia-02.jpg",
+    "title": "Placentia Home",
+    "description": "July 2016",
+    "gallery": "gallery-houses",
+    "filter": "filter-houses"
+  },
+  {
+    "src": "/assets/images/gallery/houses/2016.07-placentia-03.jpg",
+    "title": "Placentia Home",
+    "description": "July 2016",
+    "gallery": "gallery-houses",
+    "filter": "filter-houses"
   },
   {
     "src": "/assets/images/gallery/family/2016.12-family-01.jpg",
@@ -2869,6 +2877,54 @@
     "description": "December 2017",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/houses/videos/2017.12-raccoon-01.mp4",
+    "title": "Raccoon in my backyard",
+    "description": "December 2017",
+    "gallery": "gallery-houses",
+    "filter": "filter-houses",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/gallery/houses/videos/2017.12-raccoon-02.mp4",
+    "title": "Raccoon in my backyard",
+    "description": "December 2017",
+    "gallery": "gallery-houses",
+    "filter": "filter-houses",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/gallery/houses/videos/2017.12-raccoon-03.mp4",
+    "title": "Raccoon in my backyard",
+    "description": "December 2017",
+    "gallery": "gallery-houses",
+    "filter": "filter-houses",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/gallery/houses/videos/2017.12-raccoon-04.mp4",
+    "title": "Raccoon in my backyard",
+    "description": "December 2017",
+    "gallery": "gallery-houses",
+    "filter": "filter-houses",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/gallery/houses/videos/2017.12-raccoon-05.mp4",
+    "title": "Raccoon in my backyard",
+    "description": "December 2017",
+    "gallery": "gallery-houses",
+    "filter": "filter-houses",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/gallery/houses/videos/2017.12-raccoon-06.mp4",
+    "title": "Raccoon in my backyard",
+    "description": "December 2017",
+    "gallery": "gallery-houses",
+    "filter": "filter-houses",
+    "type": "video"
   },
   {
     "src": "/assets/images/gallery/family/2018.01-family-01.jpg",
