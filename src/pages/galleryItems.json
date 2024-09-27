@@ -1768,6 +1768,14 @@
     "type": "video"
   },
   {
+    "src": "/assets/images/gallery/family/videos/2012.03-grandma-birthday.mp4",
+    "title": "Granma's birthday",
+    "description": "March 2012",
+    "gallery": "gallery-family",
+    "filter": "filter-family",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/gallery/friends/2012.07-concert-01.jpg",
     "title": "K-pop Concert (NOKIA Theater)",
     "description": "July 2012",
