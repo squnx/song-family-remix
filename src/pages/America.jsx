@@ -89,6 +89,7 @@ const America = () => {
               <li data-filter=".filter-georgia" onClick={() => handleFilterClick('.filter-georgia')}>Georgia</li>
               <li data-filter=".filter-hawaii" onClick={() => handleFilterClick('.filter-hawaii')}>Hawaii</li>
               <li data-filter=".filter-nevada" onClick={() => handleFilterClick('.filter-nevada')}>Nevada</li>
+              <li data-filter=".filter-texax" onClick={() => handleFilterClick('.filter-texax')}>Texas</li>
               <li data-filter=".filter-utah" onClick={() => handleFilterClick('.filter-utah')}>Utah</li>
               <li data-filter=".filter-washington" onClick={() => handleFilterClick('.filter-washington')}>Washington</li>
               <li data-filter=".filter-wyoming" onClick={() => handleFilterClick('.filter-wyoming')}>Wyoming</li>
