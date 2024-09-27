@@ -1701,6 +1701,14 @@
     "filter": "filter-milestones"
   },
   {
+    "src": "/assets/images/gallery/family/videos/2011.02-andy-birthday-01.mp4",
+    "title": "Andy's birthday",
+    "description": "February 2011",
+    "gallery": "gallery-family",
+    "filter": "filter-family",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/gallery/family/2011.03-andy-01.jpg",
     "title": "Angie Song",
     "description": "March 2011",
@@ -1769,7 +1777,7 @@
   },
   {
     "src": "/assets/images/gallery/family/videos/2012.03-grandma-birthday.mp4",
-    "title": "Granma's birthday",
+    "title": "Grandma's birthday",
     "description": "March 2012",
     "gallery": "gallery-family",
     "filter": "filter-family",
@@ -2047,6 +2055,29 @@
     "description": "February 2015",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/family/2015.05-golf.soccer-01.jpg",
+    "title": "Golf vs Soccer",
+    "description": "May 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/videos/2015.05-golf.soccer-01.mp4",
+    "title": "Golf vs Soccer",
+    "description": "May 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/gallery/family/videos/2015.05-golf.soccer-02.mp4",
+    "title": "Golf vs Soccer",
+    "description": "May 2015",
+    "gallery": "gallery-family",
+    "filter": "filter-family",
+    "type": "video"
   },
   {
     "src": "/assets/images/gallery/houses/2015.06-duck-family-01.jpg",
