@@ -2249,6 +2249,35 @@
     "filter": "filter-houses"
   },
   {
+    "src": "/assets/images/gallery/milestones/2016.12-milal.mission-01.jpg",
+    "title": "Milal Mission",
+    "description": "December 2016",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2016.12-milal.mission-02.jpg",
+    "title": "Milal Mission",
+    "description": "December 2016",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2016.12-milal.mission-03.jpg",
+    "title": "Milal Mission",
+    "description": "December 2016",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/videos/2016.12-milal.mission-01.mp4",
+    "title": "Milal Mission",
+    "description": "December 2016",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/gallery/family/2016.12-family-01.jpg",
     "title": "Candid Moments",
     "description": "December 2016",
