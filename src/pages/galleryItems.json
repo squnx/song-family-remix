@@ -1752,6 +1752,22 @@
     "type": "video"
   },
   {
+    "src": "/assets/images/gallery/family/videos/2011.10-halloween-01b.mp4",
+    "title": "Halloween Trick or Treat",
+    "description": "October 2011",
+    "gallery": "gallery-family",
+    "filter": "filter-family",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/gallery/family/videos/2011.10-halloween-01c.mp4",
+    "title": "Halloween Trick or Treat",
+    "description": "October 2011",
+    "gallery": "gallery-family",
+    "filter": "filter-family",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/gallery/friends/2012.07-concert-01.jpg",
     "title": "K-pop Concert (NOKIA Theater)",
     "description": "July 2012",
