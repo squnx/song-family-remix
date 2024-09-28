@@ -2555,6 +2555,14 @@
     "filter": "filter-mammoth-lakes"
   },
   {
+    "src": "/assets/images/journey/california/videos/2013.06-mammoth-lakes-01.mp4",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/journey/california/2013.06-mammoth-lakes-17.jpg",
     "title": "Mammoth Lakes",
     "description": "June 2013",
@@ -2609,6 +2617,38 @@
     "description": "June 2013",
     "gallery": "journey-mammoth-lakes",
     "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/videos/2013.06-mammoth-lakes-02a.mp4",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/journey/california/videos/2013.06-mammoth-lakes-02b.mp4",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/journey/california/videos/2013.06-mammoth-lakes-02c.mp4",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/journey/california/videos/2013.06-mammoth-lakes-03.mp4",
+    "title": "Mammoth Lakes",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes",
+    "type": "video"
   },
   {
     "src": "/assets/images/journey/california/2013.06-mammoth-lakes-25.jpg",
@@ -2821,27 +2861,6 @@
     "filter": "filter-pacific-coast"
   },
   {
-    "src": "/assets/images/journey/california/2015.07-san-francisco-01.jpg",
-    "title": "San Francisco",
-    "description": "July 2015",
-    "gallery": "journey-san-francisco",
-    "filter": "filter-san-francisco"
-  },
-  {
-    "src": "/assets/images/journey/california/2015.07-san-francisco-02.jpg",
-    "title": "San Francisco",
-    "description": "July 2015",
-    "gallery": "journey-san-francisco",
-    "filter": "filter-san-francisco"
-  },
-  {
-    "src": "/assets/images/journey/california/2015.07-san-francisco-03.jpg",
-    "title": "San Francisco",
-    "description": "July 2015",
-    "gallery": "journey-san-francisco",
-    "filter": "filter-san-francisco"
-  },
-  {
     "src": "/assets/images/journey/california/2015.08-san-francisco-01.jpg",
     "title": "San Francisco",
     "description": "August 2015",
@@ -2931,6 +2950,14 @@
     "description": "August 2015",
     "gallery": "journey-san-francisco",
     "filter": "filter-san-francisco"
+  },
+  {
+    "src": "/assets/images/journey/california/videos/2015.08-san-francisco-01.mp4",
+    "title": "Lombard Street",
+    "description": "August 2015",
+    "gallery": "journey-san-francisco",
+    "filter": "filter-san-francisco",
+    "type": "video"
   },
   {
     "src": "/assets/images/journey/california/2015.08-san-francisco-14.jpg",
@@ -3052,7 +3079,7 @@
     "filter": "filter-san-francisco"
   },
   {
-    "src": "/assets/images/journey/california/videos/2015.08-san-francisco-01a.mp4",
+    "src": "/assets/images/journey/california/videos/2015.08-san-francisco-02a.mp4",
     "title": "Lombard Street",
     "description": "August 2015",
     "gallery": "journey-san-francisco",
@@ -3060,7 +3087,7 @@
     "type": "video"
   },
   {
-    "src": "/assets/images/journey/california/videos/2015.08-san-francisco-01b.mp4",
+    "src": "/assets/images/journey/california/videos/2015.08-san-francisco-02b.mp4",
     "title": "Lombard Street",
     "description": "August 2015",
     "gallery": "journey-san-francisco",
@@ -3131,7 +3158,7 @@
     "filter": "filter-san-francisco"
   },
   {
-    "src": "/assets/images/journey/california/videos/2015.08-san-francisco-02.mp4",
+    "src": "/assets/images/journey/california/videos/2015.08-san-francisco-03.mp4",
     "title": "San Francisco",
     "description": "August 2015",
     "gallery": "journey-san-francisco",
@@ -3168,98 +3195,106 @@
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-01.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-02.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-03.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-04.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-05.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-06.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-07.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-08.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-09.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-10.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-11.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
+    "src": "/assets/images/journey/california/videos/2015.08-monterey-01.mp4",
+    "title": "Monterey, CA",
+    "description": "August 2015",
+    "gallery": "journey-pacific-coast",
+    "filter": "filter-pacific-coast",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/journey/california/2015.08-monterey-12.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-13.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
   },
   {
     "src": "/assets/images/journey/california/2015.08-monterey-14.jpg",
-    "title": "Pebble Beach",
+    "title": "Monterey, CA",
     "description": "August 2015",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
@@ -3550,6 +3585,14 @@
     "description": "January 2020",
     "gallery": "journey-pacific-coast",
     "filter": "filter-pacific-coast"
+  },
+  {
+    "src": "/assets/images/journey/california/videos/2021.10-los-rios-rancho-01.mp4",
+    "title": "Los Rios Rancho",
+    "description": "October 2021",
+    "gallery": "journey-big-bear",
+    "filter": "filter-greater-la",
+    "type": "video"
   },
   {
     "src": "/assets/images/journey/california/2021.10-los-rios-rancho-01.jpg",
