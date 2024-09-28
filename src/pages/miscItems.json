@@ -504,6 +504,13 @@
     "filter": "filter-covid-19"
   },
   {
+    "src": "/assets/images/misc/covid-19/2020.04-covid.05.jpg",
+    "title": "Estimated Weight Before",
+    "description": "April 2020",
+    "gallery": "misc-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
     "src": "/assets/images/misc/covid-19/2020.05-covid.01.jpg",
     "title": "Covid-19",
     "description": "May 2020",
@@ -784,19 +791,34 @@
     "filter": "filter-covid-19"
   },
   {
+    "src": "/assets/images/misc/covid-19/2021.02-covid.03.jpg",
+    "title": "Covid-19 Golf Journey",
+    "description": "February 2021",
+    "gallery": "misc-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/2021.02-covid.04.jpg",
+    "title": "Estimated Final Weight After",
+    "description": "December 2020",
+    "gallery": "misc-covid-19",
+    "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/videos/2021.02-covid.01.mp4",
+    "title": "Covid-19 Golf Journey",
+    "description": "December 2020",
+    "gallery": "misc-covid-19",
+    "filter": "filter-covid-19",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/activity/golf/videos/2021.03-eagle.glen.01.mp4",
     "title": "Eagle Glen Golf Club",
     "description": "March 2021",
     "gallery": "misc-covid-19",
     "filter": "filter-covid-19",
     "type": "video"
-  },
-  {
-    "src": "/assets/images/misc/covid-19/2021.02-covid.03.jpg",
-    "title": "Covid-19 Golf Journey",
-    "description": "February 2021",
-    "gallery": "misc-covid-19",
-    "filter": "filter-covid-19"
   },
   {
     "src": "/assets/images/misc/covid-19/2021.03-covid.01.jpg",
@@ -958,6 +980,22 @@
     "description": "April 2021",
     "gallery": "misc-covid-19",
     "filter": "filter-covid-19"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/videos/2021.05-covid.01.mp4",
+    "title": "Roger Dunn",
+    "description": "April 2021",
+    "gallery": "misc-covid-19",
+    "filter": "filter-covid-19",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/misc/covid-19/videos/2021.06-eagle.glen-01.mp4",
+    "title": "Eagle Glen Golf Club",
+    "description": "June 2021",
+    "gallery": "misc-covid-19",
+    "filter": "filter-covid-19",
+    "type": "video"
   },
   {
     "src": "/assets/images/misc/covid-19/2021.07-covid.01.jpg",
