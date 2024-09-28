@@ -749,6 +749,30 @@
     "filter": "filter-andy"
   },
   {
+    "src": "/assets/images/events/phil/videos/2019.06-ucsb-01.mp4",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/events/phil/videos/2019.06-ucsb-02.mp4",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/events/phil/videos/2019.06-ucsb-03.mp4",
+    "title": "UCSB Graduation",
+    "description": "June 2019",
+    "gallery": "events-phil",
+    "filter": "filter-phil",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/events/phil/2019.06-ucsb-01.jpg",
     "title": "UCSB Graduation",
     "description": "June 2019",
@@ -908,6 +932,30 @@
     "description": "June 2019",
     "gallery": "events-phil",
     "filter": "filter-phil"
+  },
+  {
+    "src": "/assets/images/events/andy/videos/2022.05-usc-01.mp4",
+    "title": "USC Graduation",
+    "description": "May 2022",
+    "gallery": "events-andy",
+    "filter": "filter-andy",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/events/andy/videos/2022.05-usc-02.mp4",
+    "title": "USC Graduation",
+    "description": "May 2022",
+    "gallery": "events-andy",
+    "filter": "filter-andy",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/events/andy/videos/2022.05-usc-03.mp4",
+    "title": "USC Graduation",
+    "description": "May 2022",
+    "gallery": "events-andy",
+    "filter": "filter-andy",
+    "type": "video"
   },
   {
     "src": "/assets/images/events/andy/2022.05-usc-01.jpg",
