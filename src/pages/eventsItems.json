@@ -660,6 +660,14 @@
     "type": "video"
   },
   {
+    "src": "/assets/images/events/andy/videos/2018.06-valencia-02.mp4",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/events/andy/2018.06-valencia-01.jpg",
     "title": "Valencia Graduation",
     "description": "June 2018",
