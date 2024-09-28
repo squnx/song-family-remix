@@ -1492,7 +1492,15 @@
     "filter": "filter-hawaii"
   },
   {
-    "src": "/assets/images/journey/hawaii/2019.08-hawaii-30.jpg",
+    "src": "/assets/images/journey/hawaii/videos/2019.08-hawaii-01.mp4",
+    "title": "Big Island, Hawaii",
+    "description": "August 2019",
+    "gallery": "journey-hawaii",
+    "filter": "filter-hawaii",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/journey/hawaii/2019.08-hawaii-29.jpg",
     "title": "Big Island, Hawaii",
     "description": "August 2019",
     "gallery": "journey-hawaii",
