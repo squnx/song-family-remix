@@ -406,6 +406,14 @@
     "filter": "filter-grandpa"
   },
   {
+    "src": "/assets/images/events/andy/videos/2012.06-golden-01.mp4",
+    "title": "Golden Graduation",
+    "description": "June 2012",
+    "gallery": "events-andy",
+    "filter": "filter-andy",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/events/andy/2012.06-golden-01.jpg",
     "title": "Golden Graduation",
     "description": "June 2012",
@@ -642,6 +650,14 @@
     "description": "February 2017",
     "gallery": "events-grandpa",
     "filter": "filter-grandpa"
+  },
+  {
+    "src": "/assets/images/events/andy/videos/2018.06-valencia-01.mp4",
+    "title": "Valencia Graduation",
+    "description": "June 2018",
+    "gallery": "events-andy",
+    "filter": "filter-andy",
+    "type": "video"
   },
   {
     "src": "/assets/images/events/andy/2018.06-valencia-01.jpg",

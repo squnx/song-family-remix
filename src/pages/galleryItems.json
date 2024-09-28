@@ -2460,6 +2460,13 @@
     "filter": "filter-family"
   },
   {
+    "src": "/assets/images/gallery/family/2017.03-family-03.jpg",
+    "title": "Candid Moments",
+    "description": "March 2017",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
     "src": "/assets/images/gallery/family/2017.04-family-01.jpg",
     "title": "Candid Moments",
     "description": "April 2017",
