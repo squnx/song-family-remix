@@ -2492,22 +2492,15 @@
     "filter": "filter-mammoth-lakes"
   },
   {
-    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-09a.jpg",
-    "title": "Devils Postpile",
-    "description": "June 2013",
-    "gallery": "journey-mammoth-lakes",
-    "filter": "filter-mammoth-lakes"
-  },
-  {
-    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-09b.jpg",
-    "title": "Devils Postpile",
-    "description": "June 2013",
-    "gallery": "journey-mammoth-lakes",
-    "filter": "filter-mammoth-lakes"
-  },
-  {
     "src": "/assets/images/journey/california/2013.06-mammoth-lakes-10.jpg",
-    "title": "Mammoth Lakes",
+    "title": "Devils Postpile",
+    "description": "June 2013",
+    "gallery": "journey-mammoth-lakes",
+    "filter": "filter-mammoth-lakes"
+  },
+  {
+    "src": "/assets/images/journey/california/2013.06-mammoth-lakes-10a.jpg",
+    "title": "Devils Postpile",
     "description": "June 2013",
     "gallery": "journey-mammoth-lakes",
     "filter": "filter-mammoth-lakes"

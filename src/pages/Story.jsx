@@ -99,7 +99,7 @@ const Story = () => {
                 <h4>Business Development Representative @ Tab Commerce</h4>
                 <p>
                   <i className="bi bi-quote quote-icon-left"></i>
-                  <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+                  <span>From a young age, I was instilled with a passion for learning and a desire to make a positive impact. Graduating from UCSB and landing a role as a Business Development Representative at Tab Commerce has been a dream come true. I'm grateful for the opportunities and experiences I've had so far, and I'm excited to continue learning and growing in my career.</span>
                   <i className="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -111,7 +111,7 @@ const Story = () => {
                 <h4>Account Executive @ Amazon</h4>
                 <p>
                   <i className="bi bi-quote quote-icon-left"></i>
-                  <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
+                  <span>Growing up in a loving family, I was always encouraged to pursue my passions and dreams. After graduating from USC Marshall School of Business, I was excited to start my career at Amazon. As an Account Executive, I've had the opportunity to work with incredible clients and learn from talented colleagues. I'm passionate about building strong relationships and helping businesses achieve their goals.</span>
                   <i className="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
