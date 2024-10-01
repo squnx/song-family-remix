@@ -427,6 +427,30 @@
     "filter": "filter-instruments"
   },
   {
+    "src": "/assets/images/activity/instruments/videos/200x-piano-01.mp4",
+    "title": "Piano competition",
+    "description": "Timeless Memory",
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/activity/instruments/videos/200x-piano-02.mp4",
+    "title": "Piano competition",
+    "description": "Timeless Memory",
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/activity/instruments/videos/200x-piano-03.mp4",
+    "title": "Piano competition",
+    "description": "Timeless Memory",
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/activity/ski/2006.12-yosemite-01.jpg",
     "title": "Badger Pass",
     "description": "December 2006",

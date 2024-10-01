@@ -406,6 +406,13 @@
     "filter": "filter-grandpa"
   },
   {
+    "src": "/assets/images/events/grandpa/2011.12-rose-hills.jpg",
+    "title": "Rose Hills",
+    "description": "December 2011",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
     "src": "/assets/images/events/andy/videos/2012.06-golden-01.mp4",
     "title": "Golden Graduation",
     "description": "June 2012",
@@ -512,6 +519,13 @@
     "filter": "filter-grandpa"
   },
   {
+    "src": "/assets/images/events/grandpa/2014.01-rose-hills.jpg",
+    "title": "Rose Hills",
+    "description": "January 2014",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
+  },
+  {
     "src": "/assets/images/events/andy/2014.06-kraemer-01.jpg",
     "title": "Kraemer Graduation",
     "description": "June 2014",
@@ -538,13 +552,6 @@
     "description": "June 2014",
     "gallery": "events-andy",
     "filter": "filter-andy"
-  },
-  {
-    "src": "/assets/images/events/grandpa/2014.01-rose-hills.jpg",
-    "title": "Rose Hills",
-    "description": "January 2011",
-    "gallery": "events-grandpa",
-    "filter": "filter-grandpa"
   },
   {
     "src": "/assets/images/events/phil/2014.07-el-dorado-01.jpg",
