@@ -74,6 +74,19 @@ const misc = () => {
     }
   };
 
+  const handleVideoPlay = (videoElement) => {
+    // Automatically request fullscreen when video plays
+    videoElement.addEventListener('play', () => {
+      if (videoElement.requestFullscreen) {
+        videoElement.requestFullscreen();
+      } else if (videoElement.webkitRequestFullscreen) { // Safari
+        videoElement.webkitRequestFullscreen();
+      } else if (videoElement.msRequestFullscreen) { // IE11
+        videoElement.msRequestFullscreen();
+      }
+    });
+  };
+
   // Helper function to determine if an item is a video based on its file extension
   // const isVideo = (src) => {
   //   const videoExtensions = ['.mp4', '.webm', '.ogg'];
@@ -112,7 +125,13 @@ const misc = () => {
                           data-type="video"
                           data-autoplay="true"
                         >
-                          <video width="100%" controls>
+                          <video
+                            width="100%"
+                            controls
+                            ref={(el) => {
+                              if (el) handleVideoPlay(el); // Attach the event listener
+                            }}
+                          >
                             <source src={item.src} type="video/mp4" />
                             Your browser does not support the video tag.
                           </video>
