@@ -118,6 +118,8 @@ const America = () => {
                         >
                           <video width="100%" controls>
                             <source src={item.src} type="video/mp4" />
+                            <source src={item.src.replace('.mp4', '.webm')} type="video/webm" />
+                            <source src={item.src.replace('.mp4', '.ogg')} type="video/ogg" />
                             Your browser does not support the video tag.
                           </video>
                         </a>
