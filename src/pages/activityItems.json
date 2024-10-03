@@ -1560,6 +1560,14 @@
     "filter": "filter-golf"
   },
   {
+    "src": "/assets/images/activity/soccer/videos/2013.11-soccer-01.mp4",
+    "title": "Soccer",
+    "description": "November 2013",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/activity/soccer/2014.11-soccer-01.jpg",
     "title": "ALBION",
     "description": "Novermber 2014",
@@ -1707,6 +1715,14 @@
     "filter": "filter-soccer"
   },
   {
+    "src": "/assets/images/activity/soccer/videos/2015.09-soccer-01.mp4",
+    "title": "Soccer",
+    "description": "September 2015",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer",
+    "type": "video"
+  },
+  {
     "src": "/assets/images/journey/ensenada/videos/2015.09-jokgu-01.mp4",
     "title": "Kil's house (Ensenada)",
     "description": "September 2015",
@@ -1770,6 +1786,22 @@
     "description": "Novermber 2015",
     "gallery": "activity-soccer",
     "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/videos/2016.01-soccer-01.mp4",
+    "title": "Soccer",
+    "description": "November 2013",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer",
+    "type": "video"
+  },
+  {
+    "src": "/assets/images/activity/soccer/videos/2016.01-soccer-02.mp4",
+    "title": "Soccer",
+    "description": "November 2013",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer",
+    "type": "video"
   },
   {
     "src": "/assets/images/activity/jokgu/videos/2016-03-jokgu-01.mp4",
