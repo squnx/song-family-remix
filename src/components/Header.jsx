@@ -48,9 +48,9 @@ const Header = () => {
         </nav>
 
         <div className="header-social-links d-none d-sm-block">
-          <a href="#" className="twitter"><i className="bi bi-twitter-x"></i></a>
-          <a href="#" className="facebook"><i className="bi bi-facebook"></i></a>
-          <a href="#" className="instagram"><i className="bi bi-instagram"></i></a>
+          <a href="" className="twitter"><i className="bi bi-twitter-x"></i></a>
+          <a href="" className="facebook"><i className="bi bi-facebook"></i></a>
+          <a href="" className="instagram"><i className="bi bi-instagram"></i></a>
           <a href="https://www.linkedin.com/in/ivansong/" className="linkedin" target="_blank" rel="noreferrer">
             <i className="bi bi-linkedin"></i>
           </a>

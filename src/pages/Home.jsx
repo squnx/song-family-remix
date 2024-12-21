@@ -15,7 +15,7 @@ const Home = () => {
       title: 'Song Family',
       text: 'Making Memories Together',
       bgStyle: 'transparent-60',
-    },,
+    },
     {
       background: '/assets/images/hero-carousel/phil-01.jpg',
       title: 'Phil Song',

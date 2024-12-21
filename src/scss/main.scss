@@ -922,6 +922,10 @@ section,
     list-style-type: none;
   }
 
+  .carousel-indicators button {
+    background-color: var(--accent-color);
+  }
+
   .btn-get-started {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
