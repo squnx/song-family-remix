@@ -810,7 +810,7 @@ section,
       z-index: 2;
     }
   }
-
+ 
   .carousel-item.transparent-40 {
     &::before {
       background: color-mix(in srgb, var(--background-color), transparent 40%);
