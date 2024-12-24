@@ -201,7 +201,7 @@ h6 {
     }
 
     .active {
-      color: var(--nav-hover-color);
+      color: var(--nav-hover-color) !important;
 
       &:focus {
         color: var(--nav-hover-color);
