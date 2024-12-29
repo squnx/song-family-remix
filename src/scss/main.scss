@@ -81,8 +81,25 @@ h6 {
       transition: 0.3s;
       font-size: 16px;
 
+      .bi-facebook {
+        color: #3b5998;
+      }
+
+      .bi-instagram {
+        color: #e4405f;
+      }
+
+      .bi-twitter-x {
+        color: #1da1f2 ;
+      }
+
+      .bi-linkedin {
+        color: #0077b5 ;
+      }
+
       &:hover {
         color: color-mix(in srgb, var(--accent-color), transparent 50%);
+        opacity: 0.7;
       }
 
       i {
@@ -456,9 +473,26 @@ h6 {
       margin: 0 5px;
       transition: 0.3s;
 
+      .bi-facebook {
+        color: #3b5998;
+      }
+
+      .bi-instagram {
+        color: #e4405f;
+      }
+
+      .bi-twitter-x {
+        color: #1da1f2 ;
+      }
+
+      .bi-linkedin {
+        color: #0077b5 ;
+      }
+
       &:hover {
         color: color-mix(in srgb, var(--accent-color), transparent 50%);
         border-color: var(--nav-hover-color);
+        opacity: 0.7;
       }
     }
   }
